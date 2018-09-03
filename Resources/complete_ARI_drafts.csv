@@ -1,0 +1,1155 @@
+,Year,Rnd,OvPck,RdPck,Tm,Signed,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,Type,school,town,ST
+0,1996,1,30,30,D'backs,Y,Nick Bierbrodt (minors),LHP,-1.0,8.0,8.0,0.0,0.5,1.225,38.0,6.0,9.0,6.66,1.82,0.0,HS,Millikan HS ,Long Beach,CA
+1,1996,2,65,30,D'backs,Y,Jerry Proctor (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Muir HS ,Altadena,CA
+2,1996,3,95,30,D'backs,Y,Mark Osborne (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lee County HS ,Sanford,NC
+3,1996,4,125,30,D'backs,Y,Josh McAffee (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Farmington HS ,Farmington,NM
+4,1996,5,155,30,D'backs,Y,Brad Penny (minors),RHP,19.1,288.0,529.0,3.0,0.157,0.38,349.0,121.0,101.0,4.29,1.38,0.0,HS,Broken Arrow HS ,Broken Arrow,OK
+5,1996,6,185,30,D'backs,Y,Eric Putt (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Deltona HS ,Deltona,FL
+6,1996,7,215,30,D'backs,N,Casey Fossum (minors),LHP,-1.1,46.0,46.0,0.0,0.087,0.193,237.0,40.0,53.0,5.45,1.52,2.0,HS,Midway HS ,Waco,TX
+7,1996,8,245,30,D'backs,Y,Joe Verplancke (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Los Angeles ,Los Angeles,CA
+8,1996,9,275,30,D'backs,Y,Marc Van Wormer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Prescott HS ,Prescott,AZ
+9,1996,10,305,30,D'backs,Y,George Oleksik (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Middle Tennessee State University ,Murfreesboro,TN
+10,1996,11,335,30,D'backs,Y,Ron Hartman (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maryland ,College Park,MD
+11,1996,12,365,30,D'backs,Y,Mike Boughton (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Northwood University ,Cedar Hill,TX
+12,1996,13,395,30,D'backs,Y,Ben Norris (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Westwood HS ,Austin,TX
+13,1996,14,425,30,D'backs,Y,Jamie Gann (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oklahoma ,Norman,OK
+14,1996,15,455,30,D'backs,Y,Reggie Davis (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Augusta State University ,Augusta,GA
+15,1996,16,485,30,D'backs,N,Kevin Johnson (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Joseph HS ,Alameda,CA
+16,1996,17,515,30,D'backs,Y,Jackie Rexrode (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Riverdale Baptist HS ,Upper Marlboro,MD
+17,1996,18,545,30,D'backs,Y,David Chapman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Alta Loma HS ,Rancho Cucamonga,CA
+18,1996,19,575,30,D'backs,N,Jake Brooks (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,East Lake HS ,Tarpon Springs,FL
+19,1996,20,605,30,D'backs,Y,John Fleming (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bonita Vista HS ,Chula Vista,CA
+20,1996,21,635,30,D'backs,N,Brian Crisorio (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,East Lake HS ,Tarpon Springs,FL
+21,1996,22,665,30,D'backs,N,Jeff Nichols (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Duncanville HS ,Duncanville,TX
+22,1996,23,695,30,D'backs,Y,Michael McCutchen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Modesto Junior College ,Modesto,CA
+23,1996,24,725,30,D'backs,N,Eric Knott (minors),LHP,-0.6,16.0,6.0,0.0,0.0,0.0,16.0,1.0,3.0,4.5,1.54,0.0,4Yr,Stetson University ,DeLand,FL
+24,1996,25,755,30,D'backs,Y,Scott Glasser (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Rancho Santiago College ,Santa Ana,CA
+25,1996,26,785,30,D'backs,Y,Rob Ryan (minors),OF,-0.1,55.0,64.0,2.0,0.23399999999999999,0.691,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Washington State University ,Pullman,WA
+26,1996,27,815,30,D'backs,Y,Justin Bice (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Grand Canyon University ,Phoenix,AZ
+27,1996,28,845,30,D'backs,Y,Beau Baltzell (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Purdue University ,West Lafayette,IN
+28,1996,29,875,30,D'backs,Y,Kevin Sweeney (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mercyhurst College ,Erie,PA
+29,1996,30,905,30,D'backs,N,Michael Pesci (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Detroit Mercy ,Detroit,MI
+30,1996,31,935,30,D'backs,Y,Jose Nunez (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Northeast Texas Community College ,Mount Pleasant,TX
+31,1996,32,965,30,D'backs,Y,Jason Conti (minors),OF,0.5,182.0,420.0,6.0,0.23800000000000002,0.6579999999999999,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Pittsburgh ,Pittsburgh,PA
+32,1996,33,995,30,D'backs,Y,Dallas Anderson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Lethbridge CC ,Lethbridge,AB
+33,1996,34,1025,30,D'backs,N,Corey Hart (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Connors State College ,Warner,OK
+34,1996,35,1055,30,D'backs,Y,Brett Hardy (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Santa Barbara ",Santa Barbara,CA
+35,1996,36,1085,30,D'backs,Y,Junior Spivey (minors),2B,8.2,457.0,1553.0,48.0,0.27,0.79,0.0,0.0,0.0,0.0,0.0,0.0,JC,Cowley County Community College ,Arkansas City,KS
+36,1996,37,1115,30,D'backs,Y,Jason Moore (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,West Virginia State University ,Institute,WV
+37,1996,38,1145,30,D'backs,N,Curtis Johnson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Joseph HS ,Alameda,CA
+38,1996,39,1175,30,D'backs,Y,Bert Hudson (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Jay HS ,Jay,FL
+39,1996,40,1205,30,D'backs,Y,Travis McCall (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Senator Ruben S. Ayala HS ,Chino Hills,CA
+40,1996,41,1234,29,D'backs,Y,Brad Allison (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Morehead State University ,Morehead,KY
+41,1996,42,1262,28,D'backs,Y,Erik Sabel (minors),RHP,0.2,44.0,2.0,0.0,0.0,0.0,50.0,3.0,2.0,5.02,1.46,0.0,4Yr,Tennessee Technological University ,Cookeville,TN
+42,1996,43,1289,27,D'backs,N,Charles Chungu (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of New Hampshire ,Durham,NH
+43,1996,44,1315,26,D'backs,N,James Harrison (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,William Penn HS ,New Castle,DE
+44,1996,45,1340,25,D'backs,N,Brett DeBoer (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lakeland HS ,Rathdrum,ID
+45,1996,46,1365,25,D'backs,Y,Matt Bell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Joplin HS ,Joplin,MO
+46,1996,47,1389,24,D'backs,N,Ryan Evans (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Tuscaloosa County HS ,Northport,AL
+47,1996,48,1412,23,D'backs,Y,Jorge Martinez (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Newtown HS ,Elmhurst,NY
+48,1996,49,1435,23,D'backs,N,Brent Wagler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Southern College ,Lakeland,FL
+49,1996,50,1458,23,D'backs,N,Casey Rowe (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bullard HS ,Fresno,CA
+50,1996,51,1479,21,D'backs,N,Patrick Coogan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+51,1996,52,1498,19,D'backs,N,Jeff Remiliard (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Memorial HS ,Manchester,NH
+52,1996,53,1515,17,D'backs,Y,David Harper (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lubbock Christian University ,Lubbock,TX
+53,1996,54,1531,16,D'backs,N,Jason Jennings (minors),RHP,11.2,177.0,329.0,2.0,0.207,0.519,225.0,62.0,74.0,4.95,1.56,1.0,HS,Ralph H. Poteet HS ,Mesquite,TX
+54,1996,55,1547,16,D'backs,N,Blake Ricken (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Fresno City College ,Fresno,CA
+55,1996,56,1562,15,D'backs,N,Andy McCulloch (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Western HS ,Las Vegas,NV
+56,1996,57,1573,11,D'backs,N,Eric O'Brien (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Alton HS ,Alton,NH
+57,1996,58,1583,10,D'backs,Y,Bryce Darnell (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri Southern State University ,Joplin,MO
+58,1996,59,1592,9,D'backs,Y,Carmen Panaro (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Niagara University ,Lewiston,NY
+59,1996,60,1601,9,D'backs,Y,Mark Chavez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+60,1996,61,1608,7,D'backs,N,Brandon Duckworth (minors),RHP,-1.5,91.0,113.0,0.0,0.221,0.541,134.0,23.0,34.0,5.28,1.53,1.0,JC,College of Southern Idaho ,Twin Falls,ID
+61,1996,62,1615,7,D'backs,N,George Otero (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Pace HS ,Pace,FL
+62,1997,1,30,30,D'backs,Y,Jack Cust (minors),1B,9.4,670.0,2107.0,105.0,0.242,0.813,0.0,0.0,0.0,0.0,0.0,0.0,HS,Immaculata HS ,Somerville,NJ
+63,1997,2,81,29,D'backs,Y,Jason Royer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Del City HS ,Del City,OK
+64,1997,3,113,29,D'backs,Y,Jeff Brooks (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Solanco HS ,Oxford,PA
+65,1997,4,143,29,D'backs,Y,Chase Voshell (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Milford HS ,Milford,OH
+66,1997,5,173,29,D'backs,Y,Matt Riethmaier (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Arkadelphia HS ,Arkadelphia,AR
+67,1997,6,203,29,D'backs,Y,Mike Rooney (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. John's University ,Queens,NY
+68,1997,7,233,29,D'backs,Y,Brian Gordon (minors),OF,0.2,1.0,1.0,0.0,0.0,0.5,5.0,0.0,1.0,4.4,1.33,0.0,HS,Round Rock HS ,Round Rock,TX
+69,1997,8,263,29,D'backs,Y,Ron Calloway (minors),OF,-1.3,172.0,424.0,10.0,0.22399999999999998,0.612,0.0,0.0,0.0,0.0,0.0,0.0,JC,Canada College ,Redwood City,CA
+70,1997,9,293,29,D'backs,Y,Justin Singleton (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Paul's HS ,Lutherville,MD
+71,1997,10,323,29,D'backs,Y,Casey Cuntz (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+72,1997,11,353,29,D'backs,Y,Jamie Sykes (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Valparaiso University ,Valparaiso,IN
+73,1997,12,383,29,D'backs,Y,Doug Kohl (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Green Valley HS ,Henderson,NV
+74,1997,13,413,29,D'backs,Y,Peter Nystrom (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Dunedin HS ,Dunedin,FL
+75,1997,14,443,29,D'backs,Y,Alvin Montilla (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Raymond HS ,Bronx,NY
+76,1997,15,473,29,D'backs,Y,Brian Fox (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Grayson County College ,Denison,TX
+77,1997,16,503,29,D'backs,Y,David Haverstick (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Bethel College ,Mishawaka,IN
+78,1997,17,533,29,D'backs,Y,Steve Rowell (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ridgewood HS ,Kenner,LA
+79,1997,18,563,29,D'backs,Y,Jason Jensen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern Maine ,Gorham,ME
+80,1997,19,593,29,D'backs,Y,Tony Hausladen (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Louis University ,St. Louis,MO
+81,1997,20,623,29,D'backs,Y,Derek Michaelis (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Midway HS ,Waco,TX
+82,1997,21,653,29,D'backs,Y,Tutu Moye (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Rose HS ,Greenville,NC
+83,1997,22,683,29,D'backs,Y,Keith Jones (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Fullerton College ,Fullerton,CA
+84,1997,23,713,29,D'backs,Y,Jared Martin (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern Mississippi ,Hattiesburg,MS
+85,1997,24,743,29,D'backs,Y,Jason Martines (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Siena Heights University ,Adrian,MI
+86,1997,25,773,29,D'backs,Y,Drew Friedberg (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Middleton HS ,Middleton,WI
+87,1997,26,803,29,D'backs,Y,Ben Mitchell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Horizon HS ,Scottsdale,AZ
+88,1997,26,803,29,D'backs,Y,Ben Mitchell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Scottsdale HS ,Scottsdale,AZ
+89,1997,27,833,29,D'backs,Y,John Adams (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wichita State University ,Wichita,KS
+90,1997,28,863,29,D'backs,Y,Jared Hoerman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,East Oklahoma State College ,Wilburton,OK
+91,1997,29,893,29,D'backs,Y,Jeff Wilson (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Elon University ,Elon,NC
+92,1997,30,923,29,D'backs,Y,Dan Hall (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Plymouth HS ,Plymouth,NC
+93,1997,31,953,29,D'backs,Y,Seth Tate (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wenatchee Valley College ,Wenatchee,WA
+94,1997,32,983,29,D'backs,Y,Scott Abeyta (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Contra Costa College ,San Pablo,CA
+95,1997,33,1013,29,D'backs,Y,Lance Downing (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Watson Chapel HS ,Pine Bluff,AR
+96,1997,34,1043,29,D'backs,Y,Phillip McKaig (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Corona del Sol HS ,Tempe,AZ
+97,1997,35,1073,29,D'backs,Y,Jeremy Quire (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Murray State University ,Murray,KY
+98,1997,36,1103,29,D'backs,Y,Alex Cintron (minors),SS,-2.2,680.0,2056.0,33.0,0.275,0.7070000000000001,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mech Tech HS ,Yabucoa,Puerto
+99,1997,37,1133,29,D'backs,Y,Julio Guzman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Carson-Newman College ,Jefferson City,TN
+100,1997,38,1163,29,D'backs,Y,Charlie Jones (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Atlantic University ,Boca Raton,FL
+101,1997,39,1193,29,D'backs,Y,Kely Martin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Arcadia HS ,Phoenix,AZ
+102,1997,40,1223,29,D'backs,Y,Wyley Steelmon (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+103,1997,41,1250,26,D'backs,Y,Jeremy Dameworth (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ramona HS ,Riverside,CA
+104,1997,42,1275,24,D'backs,Y,Jason Scobie (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Westwood HS ,Austin,TX
+105,1997,43,1298,22,D'backs,Y,Jamie Puorto (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Northeastern Illinois University ,Chicago,IL
+106,1997,44,1320,21,D'backs,Y,Jason Wiedmeyer (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,West Bend East HS ,West Bend,WI
+107,1997,45,1341,20,D'backs,Y,Steven Doherty (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Long Beach ,Long Beach,CA
+108,1997,46,1360,18,D'backs,Y,Chris Bloomer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Purdue University ,West Lafayette,IN
+109,1997,47,1378,17,D'backs,Y,Jeff Santa (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Winthrop University ,Rock Hill,SC
+110,1997,48,1395,16,D'backs,Y,Bryce Terveen (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of the Desert ,Palm Desert,CA
+111,1997,49,1412,16,D'backs,Y,John Meyers (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Boswell HS ,Fort Worth,TX
+112,1997,50,1427,14,D'backs,Y,Tommy Murphy (minors),RHP,0.4,68.0,108.0,1.0,0.213,0.5579999999999999,0.0,0.0,0.0,0.0,0.0,0.0,HS,Charlotte HS ,Punta Gorda,FL
+113,1997,51,1441,13,D'backs,Y,George Dixon (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Stamford Catholic HS ,Stamford,CT
+114,1997,52,1455,13,D'backs,Y,Brandon Wells (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bagdad HS ,Bagdad,AZ
+115,1997,53,1468,12,D'backs,Y,Ron Goodwin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,North Little Rock HS ,North Little Rock,AR
+116,1997,54,1479,10,D'backs,Y,Aaron Rifkin (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Etiwanda HS ,Rancho Cucamonga,CA
+117,1997,55,1490,10,D'backs,Y,Stuart Hunt (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Edmond Memorial HS ,Edmond,OK
+118,1997,56,1501,10,D'backs,Y,Samuel Mendoza (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Highland HS ,Gilbert,AZ
+119,1997,57,1512,10,D'backs,Y,Anthony Denard (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Laney College ,Oakland,CA
+120,1997,58,1523,10,D'backs,Y,Anthony Pena (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Dallas Christian HS ,Mesquite,TX
+121,1997,59,1532,8,D'backs,Y,Ronnie Corona (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Victor Valley HS ,Victorville,CA
+122,1997,60,1540,7,D'backs,Y,Robert Pierce (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Green Valley HS ,Henderson,NV
+123,1998,3,103,30,Diamondbacks,Y,Darryl Conyer (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mission Bay HS ,San Diego,CA
+124,1998,4,133,30,Diamondbacks,Y,Javier Lopez (minors),LHP,8.1,639.0,12.0,0.0,0.083,0.16699999999999998,839.0,30.0,17.0,3.48,1.35,14.0,4Yr,University of Virginia ,Charlottesville,VA
+125,1998,5,163,30,Diamondbacks,Y,JD Closser (minors),C,-0.3,160.0,447.0,10.0,0.239,0.687,0.0,0.0,0.0,0.0,0.0,0.0,HS,Alexandria HS ,Alexandria,IN
+126,1998,6,193,30,Diamondbacks,Y,Brock McCarty (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ouachita Christian School HS ,Monroe,LA
+127,1998,7,223,30,Diamondbacks,Y,Jeff Pass (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,New Castle HS ,New Castle,IN
+128,1998,8,253,30,Diamondbacks,Y,Andrew Good (minors),RHP,0.4,31.0,21.0,0.0,0.095,0.18600000000000003,35.0,5.0,4.0,5.3,1.35,0.0,HS,Rochester HS ,Rochester Hills,MI
+129,1998,9,283,30,Diamondbacks,N,Brendan Fuller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Clearwater HS ,Clearwater,FL
+130,1998,10,313,30,Diamondbacks,Y,Tom Kail (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Baldwin HS ,Pittsburgh,PA
+131,1998,11,343,30,Diamondbacks,Y,Hector Cruz (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Florida College ,Jacksonville,FL
+132,1998,12,373,30,Diamondbacks,Y,Victor Hall (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Monroe HS ,Sepulveda,CA
+133,1998,13,403,30,Diamondbacks,N,Brian Sager (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Branford HS ,Branford,CT
+134,1998,14,433,30,Diamondbacks,Y,Dan Meier (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+135,1998,15,463,30,Diamondbacks,Y,Chris Cervantes (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pima Community College ,Tucson,AZ
+136,1998,16,493,30,Diamondbacks,Y,Heath Corbett (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,McMinn County HS ,Riceville,TN
+137,1998,17,523,30,Diamondbacks,N,Lamar Sturdivant (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Woodbury HS ,Woodbury,NJ
+138,1998,18,553,30,Diamondbacks,Y,Bret Prinz (minors),RHP,0.5,69.0,0.0,0.0,0.0,0.0,102.0,5.0,4.0,4.89,1.62,9.0,JC,Phoenix College ,Phoenix,AZ
+139,1998,19,583,30,Diamondbacks,Y,Jeff Barndollar (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Saddleback College ,Mission Viejo,CA
+140,1998,20,613,30,Diamondbacks,Y,John Egly (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mountain View HS ,Mountain View,MO
+141,1998,21,643,30,Diamondbacks,Y,Paul Giambalvo (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+142,1998,22,673,30,Diamondbacks,N,Ryan Blake (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Robert B. Glenn HS ,Kernersville,NC
+143,1998,23,703,30,Diamondbacks,Y,Robby Hammock (minors),C,0.6,182.0,481.0,12.0,0.254,0.7190000000000001,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Georgia ,Athens,GA
+144,1998,24,733,30,Diamondbacks,Y,Troy Niehaus (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Eastern Michigan University ,Ypsilanti,MI
+145,1998,25,763,30,Diamondbacks,Y,Steve Neal (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pratt Community College ,Pratt,KS
+146,1998,26,793,30,Diamondbacks,N,Jason Reuss (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Canyon HS ,Anaheim,CA
+147,1998,27,823,30,Diamondbacks,Y,Mario Knorr (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,El Capitan HS ,Lakeside,CA
+148,1998,28,853,30,Diamondbacks,Y,Justin Santonocito (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mercyhurst College ,Erie,PA
+149,1998,29,883,30,Diamondbacks,Y,Mike Koplove (minors),RHP,3.3,209.0,5.0,0.0,0.0,0.0,222.0,15.0,7.0,3.82,1.31,2.0,4Yr,University of Delaware ,Newark,DE
+150,1998,30,913,30,Diamondbacks,N,Charlie Manning (minors),LHP,-0.1,56.0,0.0,0.0,0.0,0.0,57.0,1.0,3.0,5.14,1.57,0.0,JC,Polk Community College ,Winter Haven,FL
+151,1998,31,943,30,Diamondbacks,N,Carl Makowsky (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Conroe HS ,Conroe,TX
+152,1998,32,973,30,Diamondbacks,N,Nick Glaser (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Edmonds Community College ,Lynnwood,WA
+153,1998,33,1003,30,Diamondbacks,N,Horace Lawrence (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,El Cerrito HS ,El Cerrito,CA
+154,1998,34,1033,30,Diamondbacks,Y,Justin Kees (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Illinois University Carbondale ,Carbondale,IL
+155,1998,35,1063,30,Diamondbacks,N,Russ Bayer (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Central HS ,Naperville,IL
+156,1998,36,1093,30,Diamondbacks,Y,Jim Rinne (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Illinois Wesleyan University ,Bloomington,IL
+157,1998,37,1123,30,Diamondbacks,Y,Matt White (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Western Oregon University ,Monmouth,OR
+158,1998,38,1153,30,Diamondbacks,Y,Justin Crivello (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Edmonds Community College ,Lynnwood,WA
+159,1998,39,1183,30,Diamondbacks,Y,Kirk Bolling (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Saddleback College ,Mission Viejo,CA
+160,1998,40,1213,30,Diamondbacks,N,John Gouzd (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Fairmont Senior HS ,Fairmont,WV
+161,1998,41,1243,30,Diamondbacks,Y,Justin Beasley (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Butler University ,Indianapolis,IN
+162,1998,42,1272,29,Diamondbacks,Y,Jody Fuller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Tennessee ,Knoxville,TN
+163,1998,43,1300,28,Diamondbacks,Y,Adam Neubart (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rutgers, the State University of New Jersey ",New Brunswick,NJ
+164,1998,44,1326,26,Diamondbacks,N,Courtney Hall (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Edmonds Community College ,Lynnwood,WA
+165,1998,45,1351,25,Diamondbacks,N,Wilton Reynolds (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Monte Vista HS ,Spring Valley,CA
+166,1998,46,1373,22,Diamondbacks,N,Ben Mitchell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Horizon HS ,Scottsdale,AZ
+167,1998,46,1373,22,Diamondbacks,N,Ben Mitchell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Scottsdale HS ,Scottsdale,AZ
+168,1998,47,1394,21,Diamondbacks,N,Cole Saben (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Portland Lutheran HS ,Portland,OR
+169,1998,48,1414,20,Diamondbacks,N,Bryon Gribbons (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cooper City HS ,Cooper City,FL
+170,1998,49,1431,17,Diamondbacks,N,Joseph Bunton (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bell HS ,Bell,CA
+171,1998,50,1446,15,Diamondbacks,N,Lucas Gruner (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mayfair HS ,Lakewood,CA
+172,1999,1,4,4,Diamondbacks,Y,Corey Myers (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Desert Vista HS ,Phoenix,AZ
+173,1999,1s,31,31,Diamondbacks,Y,*Casey Daigle (minors),RHP,-1.3,32.0,18.0,0.0,0.111,0.33299999999999996,33.0,3.0,4.0,7.16,1.97,0.0,HS,Sulphur HS ,Sulphur,LA
+174,1999,2,71,20,Diamondbacks via Dodgers,Y,*Jeremy Ward (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Long Beach ,Long Beach,CA
+175,1999,6,178,4,Diamondbacks,N,Justin Maureau (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Highlands Ranch HS ,Highlands Ranch,CO
+176,1999,7,208,4,Diamondbacks,Y,Ryan Owens (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+177,1999,8,238,4,Diamondbacks,Y,Chris Capuano (minors),LHP,8.9,252.0,371.0,1.0,0.124,0.307,316.0,77.0,92.0,4.38,1.36,0.0,4Yr,Duke University ,Durham,NC
+178,1999,9,268,4,Diamondbacks,Y,Matt Kata (minors),SS,-0.7,278.0,695.0,12.0,0.239,0.66,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+179,1999,10,298,4,Diamondbacks,N,Matt Abram (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Chaparral HS ,Scottsdale,AZ
+180,1999,11,328,4,Diamondbacks,N,Ben King (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Grapevine HS ,Grapevine,TX
+181,1999,12,358,4,Diamondbacks,Y,Doug DeVore (minors),OF,0.1,50.0,107.0,3.0,0.22399999999999998,0.6459999999999999,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Indiana University-Bloomington ,Bloomington,IN
+182,1999,13,388,4,Diamondbacks,N,Jesse Harper (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brazoswood HS ,Clute,TX
+183,1999,14,418,4,Diamondbacks,N,Todd Gelatka (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Trabuco Hills HS ,Mission Viejo,CA
+184,1999,15,448,4,Diamondbacks,Y,Todd Kasper (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Yale University ,New Haven,CT
+185,1999,16,478,4,Diamondbacks,Y,Greg Perkin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Kingwood HS ,Kingwood,TX
+186,1999,17,508,4,Diamondbacks,Y,Shawn Lagana (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lakewood HS ,Lakewood,CA
+187,1999,18,538,4,Diamondbacks,Y,Lyle Overbay (minors),1B,16.8,1587.0,5102.0,151.0,0.266,0.7759999999999999,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Reno ,Reno,NV
+188,1999,19,568,4,Diamondbacks,Y,Jack Santora (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+189,1999,20,598,4,Diamondbacks,Y,Justin Graham (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,West Virginia State University ,Institute,WV
+190,1999,21,628,4,Diamondbacks,Y,Tim Stanton (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Southern College ,Lakeland,FL
+191,1999,22,658,4,Diamondbacks,Y,Mike Davis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lyon County HS ,Eddyville,KY
+192,1999,23,688,4,Diamondbacks,Y,Evan Fahrner (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Bradley University ,Peoria,IL
+193,1999,24,718,4,Diamondbacks,Y,Toby Harris (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Las Vegas ,Las Vegas,NV
+194,1999,25,748,4,Diamondbacks,Y,Travis Oglesby (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Armstrong State University ,Savannah,GA
+195,1999,26,778,4,Diamondbacks,Y,Kevan Burns (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Troy University ,Troy,AL
+196,1999,27,808,4,Diamondbacks,Y,Dan Jackson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"St. Louis Community College, Forest Park Campus ",St. Louis,MO
+197,1999,28,838,4,Diamondbacks,Y,Dan Williford (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mobile ,Mobile,AL
+198,1999,29,868,4,Diamondbacks,Y,Dale Deveraux (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Idaho ,Twin Falls,ID
+199,1999,30,898,4,Diamondbacks,N,Hans Smith (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fresno ,Fresno,CA
+200,1999,31,928,4,Diamondbacks,Y,Joe Kalczynski (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Michigan State University ,East Lansing,MI
+201,1999,32,958,4,Diamondbacks,N,Jim Kavourias (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pensacola Junior College ,Pensacola,FL
+202,1999,33,988,4,Diamondbacks,Y,Joe Yakopich (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Thomas of Villanova HS ,LaSalle,ON
+203,1999,34,1018,4,Diamondbacks,Y,Cody Sundbeck (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Dallas Baptist University ,Dallas,TX
+204,1999,35,1048,4,Diamondbacks,Y,Jim Wollscheid (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,McMurry University ,Abilene,TX
+205,1999,36,1078,4,Diamondbacks,Y,Steven Tomshack (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maryland ,College Park,MD
+206,1999,37,1108,4,Diamondbacks,Y,Derek Forbes (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+207,1999,38,1138,4,Diamondbacks,N,Erick Contreras (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Garden City Community College ,Garden City,KS
+208,1999,39,1168,4,Diamondbacks,N,Carlton Wells (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Hillsborough Community College ,Tampa,FL
+209,1999,39,1168,4,Diamondbacks,N,Carlton Wells (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Hillsborough Community College ,Tampa,FL
+210,1999,40,1198,4,Diamondbacks,N,Aaron Sobieraj (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Dunedin HS ,Dunedin,FL
+211,1999,41,1228,4,Diamondbacks,Y,Josh Goldfield (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Moorpark College ,Moorpark,CA
+212,1999,42,1256,4,Diamondbacks,Y,Brian Matzenbacher (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Illinois University Edwardsville ,Edwardsville,IL
+213,1999,43,1283,4,Diamondbacks,Y,Todd Myers (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lamar University ,Beaumont,TX
+214,1999,44,1310,4,Diamondbacks,N,Aaron Pullin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Midland HS ,Midland,TX
+215,1999,45,1336,3,Diamondbacks,N,Jered Liebeck (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mountain Ridge HS ,Glendale,AZ
+216,1999,46,1361,3,Diamondbacks,N,Scott Buffington (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Lamar Community College ,Lamar,CO
+217,1999,47,1385,3,Diamondbacks,Y,Chris Jorgenson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,McCoy HS ,New Brigden,AB
+218,1999,48,1409,3,Diamondbacks,N,Keith Schuttler (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Agua Fria HS ,Avondale,AZ
+219,1999,49,1433,3,Diamondbacks,N,Chris Churchill (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Abilene HS ,Abilene,TX
+220,1999,50,1456,3,Diamondbacks,N,Peter Hawley (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Branford HS ,Branford,CT
+221,2000,2,69,29,Diamondbacks,Y,Mike Schultz (minors),RHP,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,Loyola Marymount University ,Los Angeles,CA
+222,2000,3,99,29,Diamondbacks,Y,Bill White (minors),LHP,-0.4,0.0,0.0,0.0,0.0,0.0,17.0,2.0,0.0,9.45,2.48,0.0,4Yr,Jacksonville State University ,Jacksonville,AL
+223,2000,4,129,29,Diamondbacks,Y,Josh Kroeger (minors),OF,-0.6,22.0,54.0,0.0,0.16699999999999998,0.40399999999999997,0.0,0.0,0.0,0.0,0.0,0.0,HS,Scripps Ranch HS ,San Diego,CA
+224,2000,5,159,29,Diamondbacks,Y,Brad Cresse (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+225,2000,6,189,29,Diamondbacks,Y,Scott Barber (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+226,2000,7,219,29,Diamondbacks,Y,Tim Olson (minors),OF,-0.4,51.0,99.0,2.0,0.182,0.615,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Florida ,Gainesville,FL
+227,2000,8,249,29,Diamondbacks,Y,Brandon Webb (minors),RHP,31.0,187.0,391.0,0.0,0.113,0.27,199.0,87.0,62.0,3.27,1.24,0.0,4Yr,University of Kentucky ,Lexington,KY
+228,2000,9,279,29,Diamondbacks,Y,Tanner Eriksen (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern California ,Los Angeles,CA
+229,2000,10,309,29,Diamondbacks,Y,Cedrick Harris (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+230,2000,11,339,29,Diamondbacks,Y,Rick Haydel (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisiana at Lafayette ,Lafayette,LA
+231,2000,12,369,29,Diamondbacks,Y,Brian Bruney (minors),RHP,1.1,110.0,1.0,0.0,0.0,0.0,273.0,19.0,12.0,4.68,1.63,13.0,HS,Warrenton HS ,Warrenton,OH
+232,2000,13,399,29,Diamondbacks,Y,Pete Sikaras (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of St. Francis ,Joliet,IL
+233,2000,14,429,29,Diamondbacks,Y,Jesus Cota (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pima Community College ,Tucson,AZ
+234,2000,15,459,29,Diamondbacks,Y,Julius Foreman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Augusta State University ,Augusta,GA
+235,2000,16,489,29,Diamondbacks,Y,William Rosellini (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Dallas ,Irving,TX
+236,2000,17,519,29,Diamondbacks,Y,Doug Slaten (minors),LHP,1.5,202.0,0.0,0.0,0.0,0.0,216.0,7.0,8.0,3.52,1.48,0.0,JC,Los Angeles Pierce College ,Woodland Hills,CA
+237,2000,18,549,29,Diamondbacks,Y,Vince Eppolito (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Shippensburg University of Pennsylvania ,Shippensburg,PA
+238,2000,19,579,29,Diamondbacks,Y,Aric LeClair (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Indiana State University ,Terre Haute,IN
+239,2000,20,609,29,Diamondbacks,Y,Chris LeSieur (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of New Haven ,West Haven,CT
+240,2000,21,639,29,Diamondbacks,Y,Jason Williams (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley ",Berkeley,CA
+241,2000,22,669,29,Diamondbacks,Y,Corbey Medlin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Katy HS ,Katy,TX
+242,2000,23,699,29,Diamondbacks,N,Brett Korth (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Genoa-Kingston HS ,Genoa,IL
+243,2000,24,729,29,Diamondbacks,Y,Andy Green (minors),2B,-1.3,140.0,230.0,2.0,0.2,0.547,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+244,2000,25,759,29,Diamondbacks,N,James Gregg (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wallace State Community College ,Dothan) ,
+245,2000,26,789,29,Diamondbacks,Y,Greg Belson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Montclair State University ,Montclair,NJ
+246,2000,27,819,29,Diamondbacks,Y,Jon Sherlock (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hopkins HS ,Minnetonka,MN
+247,2000,28,849,29,Diamondbacks,Y,Matt Steele (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Georgia ,Athens,GA
+248,2000,29,879,29,Diamondbacks,N,Ian Kinsler (minors),SS,56.5,1755.0,7002.0,245.0,0.271,0.782,0.0,0.0,0.0,0.0,0.0,0.0,HS,Canyon del Oro HS ,Oro Valley,AZ
+249,2000,29,879,29,Diamondbacks,N,Ian Kinsler (minors),SS,56.5,1755.0,7002.0,245.0,0.271,0.782,0.0,0.0,0.0,0.0,0.0,0.0,HS,Central Arizona College ,Coolidge,AZ
+250,2000,30,909,29,Diamondbacks,N,Ryan Costello (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Gloucester County College ,Sewell,NJ
+251,2000,31,939,29,Diamondbacks,Y,John Massey (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Tennessee ,Knoxville,TN
+252,2000,32,969,29,Diamondbacks,N,Ralph Roberts (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lenoir-Rhyne College ,Hickory,NC
+253,2000,33,999,29,Diamondbacks,N,Khari Council (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,McClancy Memorial HS ,East Elmhurst,NY
+254,2000,34,1029,29,Diamondbacks,Y,Steve Woodward (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+255,2000,35,1059,29,Diamondbacks,Y,Joe Ricciardi (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Leo College ,St. Leo,FL
+256,2000,36,1089,29,Diamondbacks,Y,Joey Cramblitt (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+257,2000,37,1119,29,Diamondbacks,N,Trey Rice (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Galveston College ,Galveston,TX
+258,2000,38,1149,29,Diamondbacks,N,Oscar Mattox (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Phoenix College ,Phoenix,AZ
+259,2000,39,1179,29,Diamondbacks,N,Brandon Simon (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,West Hills College ,Coalinga,CA
+260,2000,40,1208,28,Diamondbacks,N,Josh Perrault (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Red Mountain HS ,Mesa,AZ
+261,2000,41,1237,28,Diamondbacks,Y,Orlando DeLaNuez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Miami Springs HS ,Miami Springs,FL
+262,2000,42,1266,28,Diamondbacks,N,Charles Parkinson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Blueridge HS ,Lakeside,AZ
+263,2000,43,1294,27,Diamondbacks,Y,Carlton Wells (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Hillsborough Community College ,Tampa,FL
+264,2000,43,1294,27,Diamondbacks,Y,Carlton Wells (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Hillsborough Community College ,Tampa,FL
+265,2000,44,1320,25,Diamondbacks,Y,Marques Chilsom (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brandon HS ,Brandon,FL
+266,2000,45,1346,25,Diamondbacks,N,Rob Ramsey (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bowie HS ,Austin,TX
+267,2000,46,1370,23,Diamondbacks,N,Luis Trinidad (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Long Beach City College ,Long Beach,CA
+268,2000,47,1391,20,Diamondbacks,N,Andrew Wishy (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Raytown South HS ,Raytown,MO
+269,2000,48,1411,19,Diamondbacks,N,Creighton Kahoalii (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Memorial HS ,Newark,CA
+270,2000,49,1431,19,Diamondbacks,N,Eric Anderson (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lake Dallas HS ,Corinth,TX
+271,2000,50,1451,19,Diamondbacks,N,Brian Buscher (minors),3B,0.5,164.0,436.0,8.0,0.266,0.6990000000000001,0.0,0.0,0.0,0.0,0.0,0.0,JC,Central Florida Community College ,Ocala,FL
+272,2001,1,22,22,Diamondbacks,Y,Jason Bulger (minors),RHP,0.7,18.0,0.0,0.0,0.0,0.0,125.0,7.0,2.0,4.33,1.41,1.0,4Yr,Valdosta State University ,Valdosta,GA
+273,2001,2,66,22,Diamondbacks,Y,Mike Gosling (minors),LHP,0.0,43.0,17.0,0.0,0.0,0.055999999999999994,58.0,3.0,4.0,4.85,1.8,0.0,4Yr,Stanford University ,Palo Alto,CA
+274,2001,3,98,22,Diamondbacks,Y,Scott Hairston (minors),2B,6.3,923.0,2431.0,106.0,0.242,0.738,0.0,0.0,0.0,0.0,0.0,0.0,JC,Central Arizona College ,Coolidge,AZ
+275,2001,4,128,22,Diamondbacks,Y,Justin Wechsler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ball State University ,Muncie,IN
+276,2001,5,158,22,Diamondbacks,Y,Rich Barrett (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ursinus College ,Collegeville,PA
+277,2001,6,188,22,Diamondbacks,N,Matt Fox (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.91,1.36,0.0,HS,Douglas HS ,Coral Springs,FL
+278,2001,7,218,22,Diamondbacks,Y,Chad Tracy (minors),3B,5.3,938.0,2706.0,86.0,0.27399999999999997,0.772,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+279,2001,8,248,22,Diamondbacks,Y,Brandon Medders (minors),RHP,2.5,205.0,5.0,0.0,0.0,0.0,210.0,16.0,7.0,3.61,1.44,1.0,4Yr,Mississippi State University ,Mississippi State,MS
+280,2001,9,278,22,Diamondbacks,Y,Jarred Ball (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Tomball HS ,Tomball,TX
+281,2001,10,308,22,Diamondbacks,N,Matt Durkin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Willow Glen HS ,San Jose,CA
+282,2001,11,338,22,Diamondbacks,Y,Dan Uggla (minors),2B,17.5,1346.0,4759.0,235.0,0.24100000000000002,0.7829999999999999,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Memphis ,Memphis,TN
+283,2001,12,368,22,Diamondbacks,Y,Erick Macha (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Christian University ,Fort Worth,TX
+284,2001,13,398,22,Diamondbacks,Y,Shane Waroff (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+285,2001,14,428,22,Diamondbacks,Y,Josh Clark (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Illinois University Carbondale ,Carbondale,IL
+286,2001,15,458,22,Diamondbacks,Y,Sam Taulli (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+287,2001,16,488,22,Diamondbacks,Y,Mike DiRosa (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Miami ,Coral Gables,FL
+288,2001,17,518,22,Diamondbacks,Y,Jay Belflower (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Florida ,Gainesville,FL
+289,2001,18,548,22,Diamondbacks,Y,Michael Gaber (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,San Diego State University ,San Diego,CA
+290,2001,19,578,22,Diamondbacks,Y,Dustin Vugteveen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Grand Valley State University ,Allendale,MI
+291,2001,20,608,22,Diamondbacks,N,Eddie Bonine (minors),RHP,0.0,4.0,2.0,0.0,0.0,0.0,62.0,7.0,3.0,4.74,1.54,0.0,JC,Glendale Community College ,Glendale,CA
+292,2001,21,638,22,Diamondbacks,N,Brett Smith (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Sonora HS ,La Habra,CA
+293,2001,22,668,22,Diamondbacks,Y,Ryan Holsten (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Fairfield University ,Fairfield,CT
+294,2001,23,698,22,Diamondbacks,Y,Scott Hilinski (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Warner Southern College ,Lake Wales,FL
+295,2001,24,728,22,Diamondbacks,Y,Phil Avlas (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Kennedy HS ,Granada Hills,CA
+296,2001,25,758,22,Diamondbacks,N,Johnnie Bassham (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Western Hills HS ,Fort Worth,TX
+297,2001,26,788,22,Diamondbacks,N,Ian Kinsler (minors),SS,56.5,1755.0,7002.0,245.0,0.271,0.782,0.0,0.0,0.0,0.0,0.0,0.0,JC,Canyon del Oro HS ,Oro Valley,AZ
+298,2001,26,788,22,Diamondbacks,N,Ian Kinsler (minors),SS,56.5,1755.0,7002.0,245.0,0.271,0.782,0.0,0.0,0.0,0.0,0.0,0.0,JC,Central Arizona College ,Coolidge,AZ
+299,2001,27,818,22,Diamondbacks,Y,Cliff McMachen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Nevada ,Henderson,NV
+300,2001,28,848,22,Diamondbacks,Y,Clark Mace (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Miami University of Ohio ,Oxford,OH
+301,2001,29,878,22,Diamondbacks,Y,Ryan Coffin (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chandler-Gilbert Community College ,Chandler,AZ
+302,2001,30,908,22,Diamondbacks,Y,Alex Frazier (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Lurleen B Wallace Community College ,Andalusia,AL
+303,2001,31,938,22,Diamondbacks,N,Jason Bingham (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pima Community College ,Tucson,AZ
+304,2001,32,968,22,Diamondbacks,Y,Jeramy Janz (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of San Francisco ,San Francisco,CA
+305,2001,33,998,22,Diamondbacks,N,Daniel Morris (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,A. Crawford Mosley HS ,Lynn Haven,FL
+306,2001,34,1028,22,Diamondbacks,N,Trent Pratt (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Auburn University ,Auburn,AL
+307,2001,35,1058,22,Diamondbacks,N,Chad Halbert (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cypress HS ,Cypress,CA
+308,2001,36,1088,22,Diamondbacks,Y,Marland Williams (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,North Florida Community College ,Madison,FL
+309,2001,37,1118,22,Diamondbacks,N,Brett Dowdy (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"State College of Florida, Manatee-Sarasota ",Bradenton,FL
+310,2001,38,1148,22,Diamondbacks,N,William Stewart (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Dallas Christian HS ,Mesquite,TX
+311,2001,39,1178,22,Diamondbacks,N,Brian Cooper (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bakersfield HS ,Bakersfield,CA
+312,2001,40,1208,22,Diamondbacks,N,Cary Nelson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Channelview HS ,Channelview,TX
+313,2001,41,1237,22,Diamondbacks,N,Jesse Torborg (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Connetquot HS ,Ronkonkoma,NY
+314,2001,42,1265,21,Diamondbacks,Y,Mike Thiessen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,United States Air Force Academy ,Colorado Springs,CO
+315,2001,43,1293,21,Diamondbacks,N,Matt Raguse (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"St. Louis Community College, Forest Park Campus ",St. Louis,MO
+316,2001,43,1293,21,Diamondbacks,N,Matt Raguse (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"St. Louis Community College, Forest Park Campus ",St. Louis,MO
+317,2001,44,1321,21,Diamondbacks,N,Jon Felfoldi (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Glendale Community College ,Glendale,CA
+318,2001,45,1349,21,Diamondbacks,Y,Matty Wilkinson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Illinois University Carbondale ,Carbondale,IL
+319,2001,46,1377,21,Diamondbacks,Unk,Jake Hanen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,North Phoenix HS ,Phoenix,AZ
+320,2001,46,1377,21,Diamondbacks,Unk,Jake Hanen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Scottsdale Community College ,Scottsdale,AZ
+321,2001,47,1404,20,Diamondbacks,N,Matt Grooms (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. James HS ,Montgomery,AL
+322,2001,48,1430,19,Diamondbacks,N,Seth Smith (minors),OF,11.4,1249.0,3582.0,126.0,0.261,0.79,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hillcrest Christian HS ,Jackson,MS
+323,2001,49,1455,18,Diamondbacks,N,Troy Pickford (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Fresno City College ,Fresno,CA
+324,2001,50,1478,16,Diamondbacks,N,Scott Foresman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,American Heritage HS ,Plantation,FL
+325,2002,1,27,27,Diamondbacks,Y,Sergio Santos (minors),SS,2.0,27.0,1.0,0.0,0.0,0.0,194.0,7.0,12.0,3.98,1.33,39.0,HS,Mater Dei HS ,Santa Ana,CA
+326,2002,2,68,27,Diamondbacks,Y,Chris Snyder (minors),C,4.5,715.0,2087.0,77.0,0.22399999999999998,0.71,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Houston ,Houston,TX
+327,2002,3,99,27,Diamondbacks,Y,Jared Doyle (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,James Madison University ,Harrisonburg,VA
+328,2002,4,129,27,Diamondbacks,Y,Lance Cormier (minors),RHP,-1.6,143.0,47.0,0.0,0.106,0.271,290.0,24.0,28.0,5.07,1.63,3.0,4Yr,University of Alabama ,Tuscaloosa,AL
+329,2002,5,159,27,Diamondbacks,Y,Mark Rosen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Salisbury Prep ,Salisbury,CT
+330,2002,6,189,27,Diamondbacks,Y,Brian Barden (minors),3B,-0.2,119.0,175.0,4.0,0.21100000000000002,0.5710000000000001,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oregon State University ,Corvallis,OR
+331,2002,7,219,27,Diamondbacks,Y,Matt Henrie (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Clemson University ,Clemson,SC
+332,2002,8,249,27,Diamondbacks,N,Ryan Mahoney (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Carmel HS ,Carmel,NY
+333,2002,9,279,27,Diamondbacks,Y,Klent Corley (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Grand Canyon University ,Phoenix,AZ
+334,2002,10,309,27,Diamondbacks,N,Mike Pierce (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Clovis HS ,Clovis,CA
+335,2002,11,339,27,Diamondbacks,Y,Neb Brown (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+336,2002,12,369,27,Diamondbacks,Y,Mitch Douglas (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Augusta State University ,Augusta,GA
+337,2002,13,399,27,Diamondbacks,Y,Adam Haley (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisville ,Louisville,KY
+338,2002,14,429,27,Diamondbacks,Y,Jay Garthwaite (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Washington ,Seattle,WA
+339,2002,15,459,27,Diamondbacks,Y,Dustin Nippert (minors),RHP,0.6,43.0,9.0,0.0,0.111,0.311,119.0,14.0,16.0,5.31,1.59,0.0,4Yr,West Virginia University ,Morgantown,WV
+340,2002,16,489,27,Diamondbacks,Y,Bryan Johnson (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Washington ,Seattle,WA
+341,2002,17,519,27,Diamondbacks,Y,Donnie Saba (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Utah ,Salt Lake City,UT
+342,2002,18,549,27,Diamondbacks,Y,Matt Morgan (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lewis-Clark State College ,Lewiston,ID
+343,2002,19,579,27,Diamondbacks,Y,Sam Smith (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Alabama ,Mobile,AL
+344,2002,20,609,27,Diamondbacks,Y,Jeff Stanek (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Illinois University Carbondale ,Carbondale,IL
+345,2002,21,639,27,Diamondbacks,Y,Dan Callahan (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tufts University ,Medford,MA
+346,2002,22,669,27,Diamondbacks,N,Kenneth Parker (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Henry Foss HS ,Tacoma,WA
+347,2002,23,699,27,Diamondbacks,Y,Jared Bonnell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Reno ,Reno,NV
+348,2002,24,729,27,Diamondbacks,Y,Matt Incinelli (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Florida ,Jacksonville,FL
+349,2002,25,759,27,Diamondbacks,Y,Bookie Gates (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Washington State University ,Pullman,WA
+350,2002,26,789,27,Diamondbacks,Y,Wes Gilliam (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Illinois at Urbana-Champaign ,Champaign,IL
+351,2002,27,819,27,Diamondbacks,Y,Josh Kranawetter (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Polk Community College ,Winter Haven,FL
+352,2002,28,849,27,Diamondbacks,Y,Sean Luellwitz (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+353,2002,29,879,27,Diamondbacks,N,Michael Buss (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Wellington Community HS ,Wellington,FL
+354,2002,30,909,27,Diamondbacks,N,Anthony Isabella (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chemeketa Community College ,Salem,OR
+355,2002,31,939,27,Diamondbacks,Y,Clint Goocher (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,San Jacinto College ,Pasadena,TX
+356,2002,32,969,27,Diamondbacks,N,T.J. Large (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+357,2002,33,999,27,Diamondbacks,N,Donta Warfield (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Riverview HS ,Riverview,FL
+358,2002,34,1029,27,Diamondbacks,N,Jesus Albino (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Northwest Mississippi Community College ,Senatobia,MS
+359,2002,35,1059,27,Diamondbacks,Unk,Jake Hanen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,North Phoenix HS ,Phoenix,AZ
+360,2002,35,1059,27,Diamondbacks,Unk,Jake Hanen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Scottsdale Community College ,Scottsdale,AZ
+361,2002,36,1089,27,Diamondbacks,N,Nicholas Richardson (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Elgin Community College ,Elgin,IL
+362,2002,37,1119,27,Diamondbacks,N,Kirk Gross (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,San Ramon Valley HS ,Danville,CA
+363,2002,38,1149,27,Diamondbacks,N,Matt Falk (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Dana Hills HS ,Dana Point,CA
+364,2002,39,1179,27,Diamondbacks,Y,Grady Symonds (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Hawaii at Manoa ,Honolulu,HI
+365,2002,40,1209,27,Diamondbacks,Y,Billy Biggs (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,West Virginia University ,Morgantown,WV
+366,2002,41,1239,27,Diamondbacks,Y,Keith Whatley (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Houston ,Houston,TX
+367,2002,42,1269,27,Diamondbacks,N,Mike Ridgway (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Tacoma Community College ,Tacoma,WA
+368,2002,43,1298,26,Diamondbacks,N,Kristopher Krise (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Crescenta Valley HS ,La Crescenta,CA
+369,2002,44,1326,25,Diamondbacks,N,Conor Lalor (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Houston HS ,Germantown,TN
+370,2002,45,1353,24,Diamondbacks,N,Jonathan Crosby (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Christian Brothers HS ,Memphis,TN
+371,2002,46,1379,23,Diamondbacks,N,Ryan Gloger (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+372,2002,47,1405,23,Diamondbacks,Y,Robert Ferns (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Darton State College ,Albany,GA
+373,2002,48,1431,23,Diamondbacks,N,Ron Lowe (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ridgewood HS ,New Port Richey,FL
+374,2002,49,1456,22,Diamondbacks,N,Matt Raguse (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"St. Louis Community College, Forest Park Campus ",St. Louis,MO
+375,2002,49,1456,22,Diamondbacks,N,Matt Raguse (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"St. Louis Community College, Forest Park Campus ",St. Louis,MO
+376,2002,50,1480,22,Diamondbacks,N,Kyle Reynolds (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Second Baptist School ,Houston,TX
+377,2003,1,19,19,Diamondbacks via Mariners,Y,*Conor Jackson (minors),1B,2.2,658.0,2184.0,52.0,0.271,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley ",Berkeley,CA
+378,2003,1,29,29,Diamondbacks,Y,Carlos Quentin (minors),OF,10.4,834.0,2790.0,154.0,0.252,0.831,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+379,2003,2,66,29,Diamondbacks,Y,Jamie D'Antona (minors),3B,-0.3,18.0,17.0,0.0,0.17600000000000002,0.44,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wake Forest University ,Winston-Salem,NC
+380,2003,3,96,29,Diamondbacks,Y,Matt Chico (minors),LHP,0.6,41.0,63.0,0.0,0.159,0.317,43.0,7.0,15.0,4.95,1.56,0.0,JC,Palomar College ,San Marcos,CA
+381,2003,4,126,29,Diamondbacks,Y,Chris Kinsey (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University San Bernardino ,San Bernardino,CA
+382,2003,5,156,29,Diamondbacks,Y,Jeff Cook (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern Mississippi ,Hattiesburg,MS
+383,2003,6,186,29,Diamondbacks,Y,Orlando Mercado (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Antonio Luchetti ,Arecibo,Puerto
+384,2003,7,216,29,Diamondbacks,Y,Dustin Glant (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Purdue University ,West Lafayette,IN
+385,2003,8,246,29,Diamondbacks,Y,Robbie Van (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Las Vegas ,Las Vegas,NV
+386,2003,9,276,29,Diamondbacks,Y,Steve Garrabrants (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+387,2003,10,306,29,Diamondbacks,Y,Adam Bass (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Alabama in Huntsville ,Huntsville,AL
+388,2003,11,336,29,Diamondbacks,Y,Tila Reynolds (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Washington ,Seattle,WA
+389,2003,12,366,29,Diamondbacks,Y,Jonny Kaplan (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tulane University ,New Orleans,LA
+390,2003,13,396,29,Diamondbacks,Y,Todd Buchanan (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Western Carolina University ,Cullowhee,NC
+391,2003,14,426,29,Diamondbacks,Y,Brian Rose (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Florida ,Gainesville,FL
+392,2003,15,456,29,Diamondbacks,Y,Ben Krantz (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Pennsylvania ,Philadelphia,PA
+393,2003,16,486,29,Diamondbacks,Y,Reuben Kerbs (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wichita State University ,Wichita,KS
+394,2003,17,516,29,Diamondbacks,Y,Jayson Santiago (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ladislao Martinez HS ,Vega Alta,Puerto
+395,2003,18,546,29,Diamondbacks,N,Chris Coghlan (minors),C,0.2,801.0,2580.0,53.0,0.258,0.731,0.0,0.0,0.0,0.0,0.0,0.0,HS,East Lake HS ,Tarpon Springs,FL
+396,2003,19,576,29,Diamondbacks,Y,Danny Muegge (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Texas at Austin ,Austin,TX
+397,2003,20,606,29,Diamondbacks,Y,Joe Carque (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,San Diego State University ,San Diego,CA
+398,2003,21,636,29,Diamondbacks,Y,Chad Clark (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Azusa Pacific University ,Azusa,CA
+399,2003,22,666,29,Diamondbacks,Y,Walt Novosel (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ohio University ,Athens,OH
+400,2003,23,696,29,Diamondbacks,Y,Travis McAndrews (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern California ,Los Angeles,CA
+401,2003,24,726,29,Diamondbacks,Y,Allen Mottram (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Massachusetts Lowell ,Lowell,MA
+402,2003,25,756,29,Diamondbacks,Y,Kellen Raab (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Wisconsin Parkside ,Kenosha,WI
+403,2003,26,786,29,Diamondbacks,Y,Travis Van Zile (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Wisconsin at Whitewater ,Whitewater,WI
+404,2003,27,816,29,Diamondbacks,Y,Jason McStoots (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri Baptist University ,St. Louis,MO
+405,2003,28,846,29,Diamondbacks,Y,Brian Viafore (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Central Washington University ,Ellensburg,WA
+406,2003,29,876,29,Diamondbacks,N,Tony Festa (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Riverside ",Riverside,CA
+407,2003,30,906,29,Diamondbacks,Y,Greg Mathis (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri State University ,Springfield,MO
+408,2003,31,936,29,Diamondbacks,Y,Tim Vaillancourt (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Delaware State University ,Dover,DE
+409,2003,32,966,29,Diamondbacks,Y,Andrew McCreery (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Pennsylvania ,Philadelphia,PA
+410,2003,33,996,29,Diamondbacks,N,William Belcher (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ruston HS ,Ruston,LA
+411,2003,34,1026,29,Diamondbacks,Y,Gabriele Rio (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Southern College ,Lakeland,FL
+412,2003,35,1056,29,Diamondbacks,Y,Alex Cremidan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, San Diego ",La Jolla,CA
+413,2003,36,1086,29,Diamondbacks,Y,Derik Nippert (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ohio Valley College ,Vienna,WV
+414,2003,37,1116,29,Diamondbacks,N,Ryan Lacross (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lakewood Ranch HS ,Bradenton,FL
+415,2003,38,1146,29,Diamondbacks,Y,Shane Dove (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Spartanburg Methodist College ,Spartanburg,SC
+416,2003,39,1176,29,Diamondbacks,Y,Cristobal Melendez (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri Baptist University ,St. Louis,MO
+417,2003,40,1206,29,Diamondbacks,N,Connor Rapkoch (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bellarmine HS ,Tacoma,WA
+418,2003,41,1235,28,Diamondbacks,N,Kevin Stiehl (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,West HS ,Torrance,CA
+419,2003,42,1264,28,Diamondbacks,Y,Mike Guerrero (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+420,2003,43,1292,27,Diamondbacks,N,Matthew Mammen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,St. Charles Community College ,Cottleville,MO
+421,2003,44,1320,27,Diamondbacks,N,Jacob Coash (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of the Canyons ,Santa Clarita,CA
+422,2003,45,1347,26,Diamondbacks,N,Josh Terrell (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Lurleen B Wallace Community College ,Andalusia,AL
+423,2003,46,1374,26,Diamondbacks,N,Lester Contreras (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Champagnat Catholic HS ,Hialeah,FL
+424,2003,46,1374,26,Diamondbacks,N,Lester Contreras (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Petersburg College ,St. Petersburg,FL
+425,2003,47,1401,26,Diamondbacks,N,Brody Taylor (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Louisburg College ,Louisburg,NC
+426,2003,48,1427,25,Diamondbacks,N,Ben Colton (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Reno HS ,Reno,NV
+427,2003,49,1453,25,Diamondbacks,N,Juan Velazquez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Grossmont College ,El Cajon,CA
+428,2003,50,1479,25,Diamondbacks,N,Jeff Manship (minors),RHP,0.0,43.0,10.0,0.0,0.0,0.0,157.0,7.0,10.0,4.82,1.43,0.0,HS,Ronald Reagan HS ,San Antonio,TX
+429,2004,1,15,15,Diamondbacks,Y,Stephen Drew (minors),SS,17.1,1268.0,4403.0,123.0,0.252,0.741,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+430,2004,2,56,15,Diamondbacks,Y,Jon Zeringue (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+431,2004,3,86,15,Diamondbacks,Y,Garrett Mock (minors),RHP,-0.6,55.0,29.0,0.0,0.069,0.16899999999999998,55.0,4.0,13.0,5.17,1.67,0.0,4Yr,University of Houston ,Houston,TX
+432,2004,4,116,15,Diamondbacks,Y,Ross Ohlendorf (minors),RHP,0.6,153.0,137.0,1.0,0.073,0.19399999999999998,209.0,30.0,41.0,4.82,1.44,3.0,4Yr,Princeton University ,Princeton,NJ
+433,2004,5,146,15,Diamondbacks,Y,Cesar Nicolas (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+434,2004,6,176,15,Diamondbacks,Y,Brandon Burgess (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Sonoma State University ,Rohnert Park,CA
+435,2004,7,206,15,Diamondbacks,Y,Koley Kolberg (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arizona ,Tucson,AZ
+436,2004,8,236,15,Diamondbacks,N,James Shull (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, San Luis Obispo ",San Luis Obispo,CA
+437,2004,9,266,15,Diamondbacks,Y,A.J. Shappi (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Riverside ",Riverside,CA
+438,2004,10,296,15,Diamondbacks,Y,Steven Jackson (minors),RHP,-0.1,49.0,1.0,0.0,0.0,0.0,51.0,2.0,4.0,4.31,1.53,0.0,4Yr,Clemson University ,Clemson,SC
+439,2004,11,326,15,Diamondbacks,Y,Darryl Lawhorn (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+440,2004,12,356,15,Diamondbacks,Y,Richard Mercado (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arizona ,Tucson,AZ
+441,2004,13,386,15,Diamondbacks,N,Antoan Richardson (minors),OF,0.3,22.0,20.0,0.0,0.35,0.731,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+442,2004,14,416,15,Diamondbacks,Y,Lester Contreras (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Champagnat Catholic HS ,Hialeah,FL
+443,2004,14,416,15,Diamondbacks,Y,Lester Contreras (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,St. Petersburg College ,St. Petersburg,FL
+444,2004,15,446,15,Diamondbacks,Y,Dan Pohlman (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Northwestern University ,Evanston,IL
+445,2004,16,476,15,Diamondbacks,Y,Mark Reynolds (minors),SS,9.5,1566.0,5208.0,291.0,0.239,0.7879999999999999,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Virginia ,Charlottesville,VA
+446,2004,17,506,15,Diamondbacks,Y,Chris Carter (minors),1B,-0.3,113.0,190.0,4.0,0.263,0.6890000000000001,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+447,2004,18,536,15,Diamondbacks,Y,Vince Davis (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern University and A&M College ,Baton Rouge,LA
+448,2004,19,566,15,Diamondbacks,Y,Derek Bruce (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lewis-Clark State College ,Lewiston,ID
+449,2004,20,596,15,Diamondbacks,N,Edwin Roman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Princeton Community HS ,Princeton,IN
+450,2004,21,626,15,Diamondbacks,Y,Chris Thompson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+451,2004,22,656,15,Diamondbacks,N,Luis Lajara (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+452,2004,23,686,15,Diamondbacks,Y,Travis Gulick (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Michigan State University ,East Lansing,MI
+453,2004,24,716,15,Diamondbacks,Y,Trey Hendricks (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Harvard University ,Cambridge,MA
+454,2004,25,746,15,Diamondbacks,Y,Todd Stein (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Illinois State University ,Normal,IL
+455,2004,26,776,15,Diamondbacks,Y,Erik Schindewolf (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas A&M University ,College Station,TX
+456,2004,27,806,15,Diamondbacks,Y,Garrett Bauer (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri Baptist University ,St. Louis,MO
+457,2004,28,836,15,Diamondbacks,Y,Ramon Downing (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wabash Valley College ,Mount Carmel,IL
+458,2004,29,866,15,Diamondbacks,N,Christopher Bowen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maryland ,College Park,MD
+459,2004,30,896,15,Diamondbacks,Y,Kevin Williams (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Alabama ,Mobile,AL
+460,2004,31,926,15,Diamondbacks,Y,Marcus Townsend (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern University and A&M College ,Baton Rouge,LA
+461,2004,32,956,15,Diamondbacks,Y,Josh Buhagiar (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University San Bernardino ,San Bernardino,CA
+462,2004,33,986,15,Diamondbacks,N,Joseph Campbell (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Fremd HS ,Palatine,IL
+463,2004,33,986,15,Diamondbacks,N,Joseph Campbell (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Wabash Valley College ,Mount Carmel,IL
+464,2004,34,1016,15,Diamondbacks,N,David Hernandez (minors),RHP,5.8,352.0,5.0,0.0,0.2,0.4,472.0,34.0,40.0,3.88,1.3,22.0,JC,Cosumnes River College ,Sacramento,CA
+465,2004,35,1046,15,Diamondbacks,Y,Joseph Batten (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Middle Georgia College ,Cochran,GA
+466,2004,36,1076,15,Diamondbacks,N,Craig Heyer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Coronado HS ,Scottsdale,AZ
+467,2004,36,1076,15,Diamondbacks,N,Craig Heyer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,College of Southern Nevada ,Henderson,NV
+468,2004,37,1106,15,Diamondbacks,Y,Billy Lockin (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Loyola Marymount University ,Los Angeles,CA
+469,2004,38,1136,15,Diamondbacks,Y,Lorenzo Church (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mission Bay HS ,San Diego,CA
+470,2004,39,1166,15,Diamondbacks,N,Michael Jarman (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Edmond North HS ,Edmond,OK
+471,2004,40,1196,15,Diamondbacks,N,Ulrich Snijders (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Trinity Christian Academy ,Deltona,FL
+472,2004,41,1226,15,Diamondbacks,Y,Frank Curreri (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Massachusetts Amherst ,Amherst,MA
+473,2004,42,1255,15,Diamondbacks,N,Brandon Pullen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Idaho Falls HS ,Idaho Falls,ID
+474,2004,43,1284,15,Diamondbacks,N,Brandon White (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Surry Community College ,Dobson,NC
+475,2004,44,1313,15,Diamondbacks,Y,Adam Howard (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Walters State Community College ,Morristown,TN
+476,2004,45,1342,15,Diamondbacks,N,Ryan McKibben (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Aliso Niguel HS ,Aliso Viejo,CA
+477,2004,46,1371,15,Diamondbacks,N,Ryan Castellanos (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Nevada ,Henderson,NV
+478,2004,47,1400,15,Diamondbacks,Y,Eddy Baeza (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Mission College ,Santa Clara,CA
+479,2004,48,1429,15,Diamondbacks,N,Ryan Mooradian (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Community College of Baltimore County, Essex Campus ",Essex,MD
+480,2004,49,1457,15,Diamondbacks,N,Carlos Soto (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wabash Valley College ,Mount Carmel,IL
+481,2004,50,1485,15,Diamondbacks,Y,Kyler Newby (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Mesa Community College ,Mesa,AZ
+482,2005,1,1,1,Diamondbacks,Y,Justin Upton (minors),SS,33.5,1583.0,5803.0,275.0,0.268,0.825,0.0,0.0,0.0,0.0,0.0,0.0,HS,Great Bridge HS ,Chesapeake,VA
+483,2005,1s,31,31,Diamondbacks,Y,*Matt Torra (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Massachusetts Amherst ,Amherst,MA
+484,2005,2,49,1,Diamondbacks,Y,Matt Green (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisiana at Monroe ,Monroe,LA
+485,2005,3,81,1,Diamondbacks,Y,Jason Neighborgall (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Georgia Institute of Technology ,Atlanta,GA
+486,2005,3,83,3,Diamondbacks via Mariners,Y,*Micah Owings (minors),RHP,3.3,174.0,205.0,9.0,0.28300000000000003,0.813,138.0,32.0,33.0,4.86,1.4,1.0,4Yr,Tulane University ,New Orleans,LA
+487,2005,4,111,1,Diamondbacks,Y,Mark Romanczuk (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+488,2005,5,141,1,Diamondbacks,Y,Chris Rahl (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,College of William and Mary ,Williamsburg,VA
+489,2005,6,171,1,Diamondbacks,Y,Greg Smith (minors),LHP,1.8,12.0,15.0,0.0,0.33299999999999996,0.8,40.0,8.0,18.0,4.51,1.43,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+490,2005,7,201,1,Diamondbacks,Y,Anthony Cupps (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+491,2005,8,231,1,Diamondbacks,Y,Ryan Schreppel (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+492,2005,9,261,1,Diamondbacks,Y,Josh Ford (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Baylor University ,Waco,TX
+493,2005,10,291,1,Diamondbacks,Y,Cody Evans (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Long Beach ,Long Beach,CA
+494,2005,11,321,1,Diamondbacks,N,Brett Jacobson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cactus Shadows HS ,Cave Creek,AZ
+495,2005,12,351,1,Diamondbacks,Y,Bryan Byrne (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Mary's College of California ,Moraga,CA
+496,2005,13,381,1,Diamondbacks,N,Daniel Roberts (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+497,2005,14,411,1,Diamondbacks,Y,Rusty Ryal (minors),3B,0.2,134.0,266.0,6.0,0.263,0.721,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+498,2005,15,441,1,Diamondbacks,Y,Greg Thomson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. John's University ,Queens,NY
+499,2005,16,471,1,Diamondbacks,Y,Craig Pfautz (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Darton State College ,Albany,GA
+500,2005,17,501,1,Diamondbacks,Y,Jason Urquidez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+501,2005,18,531,1,Diamondbacks,Y,Jake Elder (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Minnesota ,Minneapolis,MN
+502,2005,19,561,1,Diamondbacks,Y,Kyle Wright (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lewis-Clark State College ,Lewiston,ID
+503,2005,20,591,1,Diamondbacks,Y,Peter Duda (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+504,2005,21,621,1,Diamondbacks,Y,Matthew Krohe (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Webber International University ,Babson Park,FL
+505,2005,22,651,1,Diamondbacks,Y,Maels Rodriguez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+506,2005,23,681,1,Diamondbacks,Y,Travis Tully (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Houston ,Houston,TX
+507,2005,24,711,1,Diamondbacks,Y,Vince Bongiovanni (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Miami ,Coral Gables,FL
+508,2005,25,741,1,Diamondbacks,N,David Williams (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rutgers, the State University of New Jersey ",New Brunswick,NJ
+509,2005,26,771,1,Diamondbacks,N,Brian Chavez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of the Canyons ,Santa Clarita,CA
+510,2005,27,801,1,Diamondbacks,Y,Matt Fowles (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Illinois State University ,Normal,IL
+511,2005,28,831,1,Diamondbacks,Y,Joel Melendez (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Southeastern Iowa Community College, West Burlington Campus ",West Burlington,IA
+512,2005,29,861,1,Diamondbacks,N,Trevor Pippin (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mcintosh HS ,Peachtree City,GA
+513,2005,30,891,1,Diamondbacks,N,Reinaldo Alicano (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Seminole Community College ,Sanford,FL
+514,2005,31,921,1,Diamondbacks,N,Craig Heyer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Coronado HS ,Scottsdale,AZ
+515,2005,31,921,1,Diamondbacks,N,Craig Heyer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Nevada ,Henderson,NV
+516,2005,32,951,1,Diamondbacks,N,Rene Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+517,2005,32,951,1,Diamondbacks,N,Rene Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pima Community College ,Tucson,AZ
+518,2005,33,981,1,Diamondbacks,N,J.B. Paxson (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Center Grove HS ,Greenwood,IN
+519,2005,34,1011,1,Diamondbacks,N,Kevin Hammons (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Cleveland State Community College ,Cleveland,TN
+520,2005,35,1041,1,Diamondbacks,N,Ray Kruml (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Indian Hills Community College ,Centerville,IA
+521,2005,36,1071,1,Diamondbacks,N,Jonathan Runnels (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,San Jacinto College ,Pasadena,TX
+522,2005,37,1101,1,Diamondbacks,N,Scott Mueller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+523,2005,38,1131,1,Diamondbacks,N,Thomas Calahan (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Saddleback College ,Mission Viejo,CA
+524,2005,39,1161,1,Diamondbacks,N,Dustin Renfrow (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Jefferson College ,Hillsboro,MO
+525,2005,40,1190,1,Diamondbacks,N,Eric Lawrence (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Grand Rapids Community College ,Grand Rapids,MI
+526,2005,41,1219,1,Diamondbacks,N,Cheyne Hann (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,San Jose City College ,San Jose,CA
+527,2005,42,1248,1,Diamondbacks,N,Forrest Beverly (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+528,2005,43,1277,1,Diamondbacks,Y,Eric Butler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tusculum College ,Greenville,TN
+529,2005,44,1306,1,Diamondbacks,N,Tom Peabody (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Rancho Bernardo HS ,San Diego,CA
+530,2005,45,1335,1,Diamondbacks,N,Drew Thomas (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Neville HS ,Monroe,LA
+531,2005,46,1364,1,Diamondbacks,N,Brandon Thomson (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chandler-Gilbert Community College ,Chandler,AZ
+532,2005,47,1393,1,Diamondbacks,Y,Houston Summers (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Northeast Guilford HS ,McLeansville,NC
+533,2005,48,1421,1,Diamondbacks,Y,Aaron Gamboa (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+534,2005,49,1448,1,Diamondbacks,N,Joseph Campbell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Fremd HS ,Palatine,IL
+535,2005,49,1448,1,Diamondbacks,N,Joseph Campbell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wabash Valley College ,Mount Carmel,IL
+536,2005,50,1475,1,Diamondbacks,N,Ritchie Franklin (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Thompson HS ,Alabaster,AL
+537,2006,1,11,11,Diamondbacks,Y,Max Scherzer (minors),RHP,50.3,169.0,323.0,1.0,0.192,0.442,325.0,153.0,80.0,3.24,1.1,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+538,2006,1s,34,34,Diamondbacks,Y,*Brooks Brown (minors),RHP,0.8,63.0,1.0,0.0,0.0,0.0,64.0,1.0,4.0,3.97,1.24,0.0,4Yr,University of Georgia ,Athens,GA
+539,2006,2,55,11,Diamondbacks,Y,Brett Anderson (minors),LHP,6.7,52.0,77.0,0.0,0.10400000000000001,0.312,146.0,43.0,49.0,4.11,1.36,3.0,HS,Stillwater HS ,Stillwater,OK
+540,2006,3,86,10,Diamondbacks via Giants,Y,*Dallas Buck (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oregon State University ,Corvallis,OR
+541,2006,3,87,11,Diamondbacks,Y,Cyle Hankerd (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern California ,Los Angeles,CA
+542,2006,4,117,11,Diamondbacks,Y,Bryant Thompson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pensacola Junior College ,Pensacola,FL
+543,2006,5,147,11,Diamondbacks,Y,Hector Ambriz (minors),RHP,-1.1,24.0,0.0,0.0,0.0,0.0,96.0,3.0,7.0,5.35,1.68,2.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+544,2006,6,177,11,Diamondbacks,Y,Joey Side (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Georgia ,Athens,GA
+545,2006,7,207,11,Diamondbacks,Y,Daniel Stange (minors),RHP,-0.4,4.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,14.29,2.47,0.0,4Yr,"University of California, Riverside ",Riverside,CA
+546,2006,8,237,11,Diamondbacks,Y,Chase Christianson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Alabama ,Mobile,AL
+547,2006,9,267,11,Diamondbacks,Y,Eddie Romero (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fresno ,Fresno,CA
+548,2006,10,297,11,Diamondbacks,Y,Tony Barnette (minors),RHP,2.3,6.0,0.0,0.0,0.0,0.0,125.0,11.0,4.0,3.5,1.25,2.0,4Yr,Arizona State University ,Tempe,AZ
+549,2006,11,327,11,Diamondbacks,Y,Daniel Fournier (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Franklin Pierce University ,Rindge,NH
+550,2006,12,357,11,Diamondbacks,Y,Andrew Fie (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Trinity Christian Academy ,Jacksonville,FL
+551,2006,13,387,11,Diamondbacks,Y,John Hester (minors),C,-0.5,93.0,208.0,6.0,0.21600000000000003,0.645,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+552,2006,14,417,11,Diamondbacks,Y,Chad Beck (minors),RHP,-0.2,2.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,5.5,1.5,0.0,4Yr,University of Louisiana at Lafayette ,Lafayette,LA
+553,2006,15,447,11,Diamondbacks,Y,Matthew Oxendine (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Florida ,Jacksonville,FL
+554,2006,16,477,11,Diamondbacks,Y,Blake Sharpe (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern California ,Los Angeles,CA
+555,2006,17,507,11,Diamondbacks,Y,Brett Reynolds (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+556,2006,18,537,11,Diamondbacks,Y,Brad Miller (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ball State University ,Muncie,IN
+557,2006,19,567,11,Diamondbacks,Y,Tyler Jones (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Alabama ,Mobile,AL
+558,2006,20,597,11,Diamondbacks,N,Enrique Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Potomac State College ,Keyser,WV
+559,2006,21,627,11,Diamondbacks,Y,Sean Smith (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+560,2006,22,657,11,Diamondbacks,Y,Danny Perales (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern California ,Los Angeles,CA
+561,2006,23,687,11,Diamondbacks,Y,Derrick Walker (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wabash Valley College ,Mount Carmel,IL
+562,2006,24,717,11,Diamondbacks,Y,Andrew Beshenich (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Norristown HS ,Norristown,PA
+563,2006,25,747,11,Diamondbacks,Y,Shane Byrne (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Tennessee State University ,Johnson City,TN
+564,2006,26,777,11,Diamondbacks,N,Frank Corolla (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Magnolia HS ,Magnolia,TX
+565,2006,27,807,11,Diamondbacks,Y,Connor Janes (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of British Columbia ,Vancouver,BC
+566,2006,28,837,11,Diamondbacks,Y,Shea McFeely (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oregon State University ,Corvallis,OR
+567,2006,29,867,11,Diamondbacks,N,Drew Hayes (minors),SS,-0.4,6.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,8.38,2.17,0.0,HS,McKenzie HS ,McKenzie,TN
+568,2006,30,897,11,Diamondbacks,Y,Clay Zavada (minors),LHP,0.6,45.0,0.0,0.0,0.0,0.0,49.0,3.0,3.0,3.35,1.35,0.0,4Yr,Southern Illinois University Edwardsville ,Edwardsville,IL
+569,2006,31,927,11,Diamondbacks,N,Kiel Roling (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Central Arizona College ,Coolidge,AZ
+570,2006,32,957,11,Diamondbacks,N,Osmany Masso (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+571,2006,33,987,11,Diamondbacks,Y,Osbek Castillo (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+572,2006,34,1017,11,Diamondbacks,Y,Tito Cruz (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Long Beach ,Long Beach,CA
+573,2006,35,1047,11,Diamondbacks,N,Casey Whitmer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Kilgore HS ,Kilgore,TX
+574,2006,36,1077,11,Diamondbacks,N,Jason Durst (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Lake-Sumter Community College ,Leesburg,FL
+575,2006,37,1107,11,Diamondbacks,N,Tyler Kmetko (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Utah ,Salt Lake City,UT
+576,2006,38,1137,11,Diamondbacks,N,Michael Guerrero (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Meridian Community College ,Meridian,MS
+577,2006,39,1167,11,Diamondbacks,N,Riley Etchebarren (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Paradise Valley HS ,Phoenix,AZ
+578,2006,40,1197,11,Diamondbacks,N,Nick Cejka (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Columbia Basin College ,Pasco,WA
+579,2006,41,1227,11,Diamondbacks,N,Quinton Marsh (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Wickenburg HS ,Wickenburg,AZ
+580,2006,42,1257,11,Diamondbacks,N,Sean Coughlin (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+581,2006,42,1257,11,Diamondbacks,N,Sean Coughlin (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+582,2006,43,1286,11,Diamondbacks,N,Jason Stidham (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Melbourne HS ,Melbourne,FL
+583,2006,44,1315,11,Diamondbacks,Y,Justin Brashear (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+584,2006,45,1344,11,Diamondbacks,Y,Clayton Conner (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Okaloosa-Walton College ,Niceville,FL
+585,2006,46,1373,11,Diamondbacks,N,Rene Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+586,2006,46,1373,11,Diamondbacks,N,Rene Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pima Community College ,Tucson,AZ
+587,2006,47,1401,11,Diamondbacks,N,David Mixon (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisiana at Monroe ,Monroe,LA
+588,2006,48,1429,11,Diamondbacks,N,Mike Solbach (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+589,2006,48,1429,11,Diamondbacks,N,Mike Solbach (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+590,2006,49,1457,11,Diamondbacks,N,Dominic Piazza (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Notre Dame Prep ,Scottsdale,AZ
+591,2006,50,1485,11,Diamondbacks,N,Kendal Volz (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Smithson Valley HS ,Spring Branch,TX
+592,2007,1,9,9,Diamondbacks,Y,Jarrod Parker (minors),RHP,6.5,4.0,8.0,0.0,0.125,0.375,62.0,25.0,16.0,3.68,1.24,0.0,HS,Norwell HS ,Ossian,IN
+593,2007,1s,50,50,Diamondbacks,Y,*Wes Roemer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+594,2007,1s,61,61,Diamondbacks,Y,*Ed Easley (minors),C,-0.1,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mississippi State University ,Mississippi State,MS
+595,2007,2,73,9,Diamondbacks,Y,Barry Enright (minors),RHP,-0.1,26.0,45.0,1.0,0.222,0.561,31.0,7.0,13.0,5.57,1.47,0.0,4Yr,Pepperdine University ,Malibu,CA
+596,2007,3,103,9,Diamondbacks,Y,Rey Navarro (minors),SS,-0.1,10.0,29.0,1.0,0.276,0.7240000000000001,0.0,0.0,0.0,0.0,0.0,0.0,HS,Puerto Rico Baseball Academy ,Gurabo,Puerto
+597,2007,4,133,9,Diamondbacks,Y,Sean Morgan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tulane University ,New Orleans,LA
+598,2007,5,163,9,Diamondbacks,Y,Tyrell Worthington (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,South Central HS ,Winterville,NC
+599,2007,6,193,9,Diamondbacks,Y,Scott Maine (minors),LHP,-0.4,39.0,2.0,0.0,0.0,0.0,50.0,2.0,3.0,5.59,1.61,0.0,4Yr,University of Miami ,Coral Gables,FL
+600,2007,7,223,9,Diamondbacks,Y,Bryan Augenstein (minors),RHP,-0.9,12.0,4.0,0.0,0.25,0.65,12.0,0.0,2.0,8.34,1.9,0.0,4Yr,University of Florida ,Gainesville,FL
+601,2007,8,253,9,Diamondbacks,Y,Taylor Harbin (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Clemson University ,Clemson,SC
+602,2007,9,283,9,Diamondbacks,Y,Mark Hallberg (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+603,2007,10,313,9,Diamondbacks,Y,Evan Frey (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+604,2007,11,343,9,Diamondbacks,Y,Josh Ellis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wake Forest University ,Winston-Salem,NC
+605,2007,12,373,9,Diamondbacks,Y,Bryan Henry (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+606,2007,12,373,9,Diamondbacks,Y,Bryan Henry (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Keystone College ,LaPlume,PA
+607,2007,13,403,9,Diamondbacks,Y,Sean Coughlin (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+608,2007,13,403,9,Diamondbacks,Y,Sean Coughlin (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+609,2007,14,433,9,Diamondbacks,N,Bobby LaFromboise (minors),LHP,0.1,18.0,0.0,0.0,0.0,0.0,27.0,0.0,1.0,3.63,1.12,0.0,4Yr,University of New Mexico ,Albuquerque,NM
+610,2007,15,463,9,Diamondbacks,Y,Josh Collmenter (minors),RHP,7.1,203.0,154.0,0.0,0.12300000000000001,0.318,214.0,38.0,35.0,3.64,1.2,2.0,4Yr,Central Michigan University ,Mount Pleasant,MI
+611,2007,16,493,9,Diamondbacks,Y,Michael Mee (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Minnesota ,Minneapolis,MN
+612,2007,17,523,9,Diamondbacks,Y,Chance Wheeless (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Texas at Austin ,Austin,TX
+613,2007,18,553,9,Diamondbacks,N,Sammy Solis (minors),LHP,1.1,120.0,5.0,0.0,0.2,0.4,125.0,5.0,6.0,3.87,1.32,1.0,HS,Agua Fria HS ,Avondale,AZ
+614,2007,19,583,9,Diamondbacks,N,Mike Solbach (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+615,2007,19,583,9,Diamondbacks,N,Mike Solbach (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+616,2007,20,613,9,Diamondbacks,Y,Peter Clifford (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Jacksonville University ,Jacksonville,FL
+617,2007,21,643,9,Diamondbacks,Y,Anthony Smith (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. John's University ,Queens,NY
+618,2007,22,673,9,Diamondbacks,Y,Ty Davis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+619,2007,23,703,9,Diamondbacks,Y,Ian Harrington (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Hawaii at Manoa ,Honolulu,HI
+620,2007,24,733,9,Diamondbacks,Y,Luke Prihoda (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Sam Houston State University ,Huntsville,TX
+621,2007,25,763,9,Diamondbacks,Y,Billy Spottiswood (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Chico ,Chico,CA
+622,2007,26,793,9,Diamondbacks,Y,Tommy Layne (minors),LHP,2.1,55.0,0.0,0.0,0.0,0.0,216.0,8.0,5.0,3.61,1.33,4.0,0,,,
+623,2007,27,823,9,Diamondbacks,N,Austin Garrett (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pensacola Junior College ,Pensacola,FL
+624,2007,28,853,9,Diamondbacks,Y,Evan Scribner (minors),RHP,0.9,13.0,0.0,0.0,0.0,0.0,145.0,5.0,4.0,4.15,1.12,1.0,4Yr,Central Connecticut State University ,New Britain,CT
+625,2007,29,883,9,Diamondbacks,Y,Omar Arif (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Long Beach ,Long Beach,CA
+626,2007,30,913,9,Diamondbacks,Y,Bill Musselman (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Louis University ,St. Louis,MO
+627,2007,31,943,9,Diamondbacks,N,Gary Bulman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Greenbrier Christian Academy ,Chesapeake,VA
+628,2007,32,972,9,Diamondbacks,N,Joseph Stevens (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pensacola Junior College ,Pensacola,FL
+629,2007,33,1001,9,Diamondbacks,N,Chuck Huggins (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Santa Barbara ",Santa Barbara,CA
+630,2007,34,1030,9,Diamondbacks,N,Christopher Kelley (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rice University ,Houston,TX
+631,2007,35,1059,9,Diamondbacks,Y,Josh Blake (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Auburn University ,Auburn,AL
+632,2007,36,1088,9,Diamondbacks,N,Tyler Conn (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern Mississippi ,Hattiesburg,MS
+633,2007,37,1116,9,Diamondbacks,Y,Jimmy Principe (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Brookdale Community College ,Lincroft,NJ
+634,2007,38,1144,9,Diamondbacks,Y,Aaron Hanke (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Davis ",Davis,CA
+635,2007,39,1172,9,Diamondbacks,Y,Elijah Rumler (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kansas State University ,Manhattan,KS
+636,2007,40,1200,9,Diamondbacks,N,Torrey Jacoby (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Notre Dame Prep ,Scottsdale,AZ
+637,2007,41,1226,9,Diamondbacks,Y,Danny Rosen (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+638,2007,42,1252,9,Diamondbacks,N,Golden Tate (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Pope John Paul II HS ,Hendersonville,TN
+639,2007,43,1278,9,Diamondbacks,N,Andrew Allen (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Desert Vista HS ,Phoenix,AZ
+640,2007,44,1304,9,Diamondbacks,N,Nick Ewing (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Oakmont HS ,Roseville,CA
+641,2007,45,1330,9,Diamondbacks,N,Garrett Bullock (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wake Forest University ,Winston-Salem,NC
+642,2007,46,1354,9,Diamondbacks,N,Josh Garcia (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brophy College Preparatory ,Phoenix,AZ
+643,2007,47,1377,9,Diamondbacks,N,Mike Greco (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Notre Dame Prep ,Scottsdale,AZ
+644,2007,48,1398,8,Diamondbacks,Y,Joseph Ayers (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Boston College ,Chestnut Hill,MA
+645,2007,49,1419,8,Diamondbacks,N,Matt Newman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brophy College Preparatory ,Phoenix,AZ
+646,2007,50,1440,8,Diamondbacks,N,Dylan Moseley (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana Tech University ,Ruston,LA
+647,2008,1,26,26,Diamondbacks,Y,Daniel Schlereth (minors),LHP,0.0,25.0,0.0,0.0,0.0,0.0,94.0,5.0,6.0,4.35,1.57,1.0,4Yr,University of Arizona ,Tucson,AZ
+648,2008,1s,43,43,Diamondbacks,Y,*Wade Miley (minors),LHP,8.0,113.0,216.0,1.0,0.153,0.373,203.0,67.0,75.0,4.36,1.4,0.0,4Yr,Southeastern Louisiana University ,Hammond,LA
+649,2008,2,73,27,Diamondbacks,Y,Bryan Shaw (minors),RHP,4.8,159.0,0.0,0.0,0.0,0.0,518.0,26.0,33.0,3.44,1.28,11.0,4Yr,California State University Long Beach ,Long Beach,CA
+650,2008,3,104,27,Diamondbacks,Y,Kevin Eichhorn (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Aptos HS ,Aptos,CA
+651,2008,4,138,26,Diamondbacks,Y,Ryne White (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Purdue University ,West Lafayette,IN
+652,2008,5,168,26,Diamondbacks,Y,Collin Cowgill (minors),OF,3.4,317.0,689.0,12.0,0.23399999999999999,0.627,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+653,2008,6,198,26,Diamondbacks,Y,Justin Parker (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wright State University ,Dayton,OH
+654,2008,7,228,26,Diamondbacks,Y,Miles Reagan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,El Capitan HS ,Lakeside,CA
+655,2008,8,258,26,Diamondbacks,Y,Pat McAnaney (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Virginia ,Charlottesville,VA
+656,2008,9,288,26,Diamondbacks,Y,Brett Moorhouse (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Indian River Community College ,Fort Pierce,FL
+657,2008,10,318,26,Diamondbacks,N,Danny Hultzen (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Albans School ,Washington,DC
+658,2008,11,348,26,Diamondbacks,Y,Kyle Greene (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lewis-Clark State College ,Lewiston,ID
+659,2008,12,378,26,Diamondbacks,N,Daniel Webb (minors),RHP,-0.2,6.0,0.0,0.0,0.0,0.0,94.0,7.0,5.0,4.5,1.64,0.0,HS,Heath HS ,West Paducah,KY
+660,2008,13,408,26,Diamondbacks,Y,Ollie Linton (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Irvine ",Irvine,CA
+661,2008,14,438,26,Diamondbacks,Y,Trevor Harden (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,New Mexico Junior College ,Hobbs,NM
+662,2008,15,468,26,Diamondbacks,Y,Bobby Stone (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Montgomery HS ,Montgomery,TX
+663,2008,16,498,26,Diamondbacks,N,Ryan Hughes (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chabot College ,Hayward,CA
+664,2008,17,528,26,Diamondbacks,Y,Ryan Babineau (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+665,2008,18,558,26,Diamondbacks,N,Sam Brown (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,North Carolina State University ,Raleigh,NC
+666,2008,19,588,26,Diamondbacks,Y,Joseph Gautier (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Bethune-Cookman College ,Daytona Beach,FL
+667,2008,20,618,26,Diamondbacks,Y,Jordan Meaker (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Dallas Baptist University ,Dallas,TX
+668,2008,21,648,26,Diamondbacks,Y,Bryan Woodall (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Auburn University ,Auburn,AL
+669,2008,22,678,26,Diamondbacks,N,Justin La Tempa (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Golden West College ,Huntington Beach,CA
+670,2008,23,708,26,Diamondbacks,N,Matthew Long (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Santa Clara University ,Santa Clara,CA
+671,2008,23,708,26,Diamondbacks,N,Matthew Long (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Santa Clara University ,Santa Clara,CA
+672,2008,23,708,26,Diamondbacks,Y,Matthew Long (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Santa Clara University ,Santa Clara,CA
+673,2008,23,708,26,Diamondbacks,Y,Matthew Long (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Santa Clara University ,Santa Clara,CA
+674,2008,24,738,26,Diamondbacks,Y,Nelson Gomez (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Keystone College ,LaPlume,PA
+675,2008,25,768,26,Diamondbacks,N,Josh Spence (minors),LHP,0.5,50.0,0.0,0.0,0.0,0.0,51.0,0.0,3.0,3.15,1.28,0.0,JC,Central Arizona College ,Coolidge,AZ
+676,2008,26,798,26,Diamondbacks,N,Alex Sogard (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,North Carolina State University ,Raleigh,NC
+677,2008,27,828,26,Diamondbacks,Y,Ryan Cook (minors),RHP,3.1,28.0,0.0,0.0,0.0,0.0,228.0,14.0,13.0,3.58,1.25,17.0,4Yr,University of Southern California ,Los Angeles,CA
+678,2008,28,858,26,Diamondbacks,N,Adam Smith (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Klein HS ,Klein,TX
+679,2008,29,888,26,Diamondbacks,N,Travis Meiners (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Des Moines Area Community College ,Boone,IA
+680,2008,30,918,26,Diamondbacks,Y,Daniel Rodriguez (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Miami-Dade College ,Miami,FL
+681,2008,31,948,26,Diamondbacks,N,Taylor Cole (minors),RHP,-0.1,1.0,0.0,0.0,0.0,0.0,6.0,0.0,2.0,5.56,1.41,0.0,JC,College of Southern Nevada ,Henderson,NV
+682,2008,32,978,26,Diamondbacks,N,Riccio Torrez (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brophy College Preparatory ,Phoenix,AZ
+683,2008,33,1008,26,Diamondbacks,N,Luke Murton (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Georgia Institute of Technology ,Atlanta,GA
+684,2008,34,1038,26,Diamondbacks,Y,Jake Elmore (minors),SS,-2.6,197.0,418.0,4.0,0.215,0.5770000000000001,2.0,0.0,0.0,4.5,1.5,0.0,4Yr,Arizona State University ,Tempe,AZ
+685,2008,35,1068,26,Diamondbacks,Y,Chris Davis (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Central Arkansas ,Conway,AR
+686,2008,36,1098,26,Diamondbacks,Y,T.J. Hose (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+687,2008,37,1128,26,Diamondbacks,N,Sanders Commings (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Westside HS ,Augusta,GA
+688,2008,38,1158,26,Diamondbacks,Y,Jesse Orosco (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Grossmont College ,El Cajon,CA
+689,2008,39,1188,26,Diamondbacks,N,Kyle Godfrey (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Wabash Valley College ,Mount Carmel,IL
+690,2008,40,1218,26,Diamondbacks,N,Taylor Wall (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Westside HS ,Houston,TX
+691,2008,41,1248,26,Diamondbacks,Y,Brendan Duffy (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oral Roberts University ,Tulsa,OK
+692,2008,42,1278,26,Diamondbacks,N,Erik Stavert (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chabot College ,Hayward,CA
+693,2008,43,1308,26,Diamondbacks,Y,Clayton Suss (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Miami-Dade College, Kendall Campus ",Miami,FL
+694,2008,44,1337,25,Diamondbacks,Y,David Cooper (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mount Olive College ,Mount Olive,NC
+695,2008,45,1365,24,Diamondbacks,N,Jeremy Rathjen (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Memorial HS ,Houston,TX
+696,2008,46,1392,23,Diamondbacks,Y,Dan Kauffman (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Juniata College ,Huntingdon,PA
+697,2008,47,1419,23,Diamondbacks,N,Drew Maggi (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brophy College Preparatory ,Phoenix,AZ
+698,2008,48,1446,23,Diamondbacks,N,Cecil Richardson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Sacramento City College ,Sacramento,CA
+699,2008,49,1473,23,Diamondbacks,N,Willie Argo (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Assumption HS ,Davenport,IA
+700,2008,50,1500,23,Diamondbacks,N,Sean Koecheler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Palm Beach Community College ,Lake Worth,FL
+701,2009,1,16,16,Diamondbacks,Y,Bobby Borchering (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bishop Verot HS ,Fort Myers,FL
+702,2009,1,17,17,Diamondbacks via Dodgers,Y,*A.J. Pollock (minors),CF,19.4,576.0,2050.0,65.0,0.28600000000000003,0.8170000000000001,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Notre Dame ,South Bend,IN
+703,2009,1s,35,35,Diamondbacks,Y,*Matt Davidson (minors),3B,0.3,224.0,750.0,43.0,0.223,0.7390000000000001,1.0,0.0,0.0,0.0,0.0,0.0,HS,Yucaipa HS ,Yucaipa,CA
+704,2009,1s,41,41,Diamondbacks,Y,*Chris Owings (minors),SS,2.9,554.0,1911.0,30.0,0.25,0.6679999999999999,0.0,0.0,0.0,0.0,0.0,0.0,HS,Gilbert HS ,Gilbert,SC
+705,2009,1s,45,45,Diamondbacks,Y,*Mike Belfiore (minors),LHP,-0.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,13.5,3.0,0.0,4Yr,Boston College ,Chestnut Hill,MA
+706,2009,2,60,11,Diamondbacks via Royals,Y,*Eric Smith (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Rhode Island ,Kingston,RI
+707,2009,2,64,15,Diamondbacks,Y,Marc Krauss (minors),LF,-1.7,146.0,398.0,12.0,0.188,0.579,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ohio University ,Athens,OH
+708,2009,3,95,15,Diamondbacks,Y,Keon Broxton (minors),3B,3.6,243.0,662.0,31.0,0.22399999999999998,0.7340000000000001,0.0,0.0,0.0,0.0,0.0,0.0,JC,Santa Fe Community College ,Gainesville,FL
+709,2009,4,126,15,Diamondbacks,Y,David Nick (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cypress HS ,Cypress,CA
+710,2009,5,156,15,Diamondbacks,Y,Ryan Wheeler (minors),1B,-1.5,109.0,206.0,3.0,0.233,0.615,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Loyola Marymount University ,Los Angeles,CA
+711,2009,6,186,15,Diamondbacks,Y,Bradin Hagens (minors),RHP,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,3.38,2.63,0.0,JC,Merced College ,Merced,CA
+712,2009,7,216,15,Diamondbacks,Y,Matt Helm (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hamilton HS ,Chandler,AZ
+713,2009,8,246,15,Diamondbacks,Y,Paul Goldschmidt (minors),1B,37.9,1029.0,3738.0,197.0,0.297,0.93,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas State University ,San Marcos,TX
+714,2009,9,276,15,Diamondbacks,Y,Chase Anderson (minors),RHP,6.7,118.0,206.0,0.0,0.09699999999999999,0.21600000000000003,123.0,42.0,35.0,3.86,1.26,0.0,4Yr,University of Oklahoma ,Norman,OK
+715,2009,10,306,15,Diamondbacks,Y,Tyson Van Winkle (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Gonzaga University ,Spokane,WA
+716,2009,11,336,15,Diamondbacks,Y,Scottie Allen (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lyman HS ,Longwood,FL
+717,2009,12,366,15,Diamondbacks,Y,Charles Brewer (minors),RHP,0.1,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0,1.67,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+718,2009,13,396,15,Diamondbacks,Y,Patrick Schuster (minors),LHP,-1.0,6.0,0.0,0.0,0.0,0.0,11.0,0.0,1.0,18.69,2.88,0.0,HS,J W Mitchell HS ,New Port Richey,FL
+719,2009,14,426,15,Diamondbacks,Y,Brent Greer (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Western Carolina University ,Cullowhee,NC
+720,2009,15,456,15,Diamondbacks,Y,David Narodowski (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kansas ,Lawrence,KS
+721,2009,16,486,15,Diamondbacks,Y,Ryan Robowski (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Ohio Dominican University ,Columbus,OH
+722,2009,17,516,15,Diamondbacks,Y,Andrew Wolcott (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Duke University ,Durham,NC
+723,2009,18,546,15,Diamondbacks,Y,Roidany Aguila (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Colegio Nuestra De La Providencia ,Rio Piedras,Puerto
+724,2009,19,576,15,Diamondbacks,Y,Randy Hamrick (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Brewton-Parker College ,Mount Vernon,GA
+725,2009,20,606,15,Diamondbacks,Y,Adam Worthington (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Illinois at Chicago ,Chicago,IL
+726,2009,21,636,15,Diamondbacks,Y,Daniel Taylor (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Central Michigan University ,Mount Pleasant,MI
+727,2009,22,666,15,Diamondbacks,Y,Evan Button (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+728,2009,23,696,15,Diamondbacks,Y,Christopher Odegaard (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Minnesota State University, Mankato ",Mankato,MN
+729,2009,24,726,15,Diamondbacks,Y,Brad Gemberling (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Princeton University ,Princeton,NJ
+730,2009,25,756,15,Diamondbacks,N,Taylor Wrenn (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"State College of Florida, Manatee-Sarasota ",Bradenton,FL
+731,2009,26,786,15,Diamondbacks,Y,Dan Kaczrowski (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Hamline University ,St. Paul,MN
+732,2009,27,816,15,Diamondbacks,Y,Jake Hale (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,The Ohio State University ,Columbus,OH
+733,2009,28,846,15,Diamondbacks,Y,Brian Budrow (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Utah ,Salt Lake City,UT
+734,2009,29,876,15,Diamondbacks,N,Jake Williams (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brophy College Preparatory ,Phoenix,AZ
+735,2009,29,876,15,Diamondbacks,N,Jake Williams (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,South Mountain Community College ,Phoenix,AZ
+736,2009,30,906,15,Diamondbacks,N,Jack Marder (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Newbury Park HS ,Thousand Oaks,CA
+737,2009,31,936,15,Diamondbacks,Y,Keith Cantwell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Seton Hall University ,South Orange,NJ
+738,2009,32,966,15,Diamondbacks,Y,Will Harvil (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Georgia ,Athens,GA
+739,2009,33,996,15,Diamondbacks,Y,Brad Wilson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, Pomona ",Pomona,CA
+740,2009,34,1026,15,Diamondbacks,N,Patrick Cooper (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Des Moines Area Community College ,Boone,IA
+741,2009,35,1056,15,Diamondbacks,N,Zachary Morgan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Shasta College ,Redding,CA
+742,2009,36,1086,15,Diamondbacks,N,Mike Freeman (minors),SS,-0.9,56.0,82.0,1.0,0.134,0.418,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,Clemson University ,Clemson,SC
+743,2009,36,1086,15,Diamondbacks,N,Mike Freeman (minors),SS,-0.9,56.0,82.0,1.0,0.134,0.418,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,Clemson University ,Clemson,SC
+744,2009,37,1116,15,Diamondbacks,N,Christopher Jacobs (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Westchester HS ,Los Angeles,CA
+745,2009,38,1146,15,Diamondbacks,N,Trevon Prince (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+746,2009,39,1176,15,Diamondbacks,N,Ryan Jones (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wichita State University ,Wichita,KS
+747,2009,40,1206,15,Diamondbacks,Y,Tim Sherlock (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Duke University ,Durham,NC
+748,2009,41,1236,15,Diamondbacks,N,Cade Kreuter (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,William S. Hart HS ,Santa Clarita,CA
+749,2009,42,1266,15,Diamondbacks,N,Zach Hendrix (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Emerald Ridge HS ,Puyallup,WA
+750,2009,43,1296,15,Diamondbacks,N,Brooklyn Foster (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Walnut Grove SS ,Langley,BC
+751,2009,44,1326,15,Diamondbacks,Y,Zac Varnell (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arkansas at Pine Bluff ,Pine Bluff,AR
+752,2009,45,1356,15,Diamondbacks,N,Beau Amaral (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Huntington Beach HS ,Huntington Beach,CA
+753,2009,46,1386,15,Diamondbacks,N,Matthew Ozanne (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Notre Dame Prep ,Scottsdale,AZ
+754,2009,47,1416,15,Diamondbacks,N,Mario Gallardo (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,West Los Angeles College ,Culver City,CA
+755,2009,48,1446,15,Diamondbacks,N,Juan Avila (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Narbonne HS ,Harbor City,CA
+756,2009,49,1476,15,Diamondbacks,N,Jordan Luvisi (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Notre Dame Prep ,Scottsdale,AZ
+757,2009,50,1506,15,Diamondbacks,N,Frank Abbl (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Mesa Community College ,Mesa,AZ
+758,2010,1,6,6,Diamondbacks,N,Barret Loux (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas A&M University ,College Station,TX
+759,2010,2,56,6,Diamondbacks,Y,J.R. Bradley (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Nitro HS ,Nitro,WV
+760,2010,3,88,6,Diamondbacks,Y,Robby Rowland (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cloverdale HS ,Cloverdale,CA
+761,2010,4,121,6,Diamondbacks,Y,Kevin Munson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,James Madison University ,Harrisonburg,VA
+762,2010,5,151,6,Diamondbacks,Y,Cody Wheeler (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Coastal Carolina University ,Conway,SC
+763,2010,6,181,6,Diamondbacks,Y,Blake Perry (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,The Pendleton School ,Bradenton,FL
+764,2010,7,211,6,Diamondbacks,Y,Jeff Shields (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chattahoochee Valley Community College ,Phenix City,AL
+765,2010,8,241,6,Diamondbacks,Y,Tyler Green (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brazoswood HS ,Clute,TX
+766,2010,9,271,6,Diamondbacks,Y,Zach Walters (minors),SS,-0.4,85.0,170.0,10.0,0.17600000000000002,0.609,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of San Diego ,San Diego,CA
+767,2010,10,301,6,Diamondbacks,Y,Kawika Emsley-Pai (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lewis-Clark State College ,Lewiston,ID
+768,2010,11,331,7,Diamondbacks,Y,Mike Freeman (minors),SS,-0.9,56.0,82.0,1.0,0.134,0.418,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,Clemson University ,Clemson,SC
+769,2010,11,331,7,Diamondbacks,Y,Mike Freeman (minors),SS,-0.9,56.0,82.0,1.0,0.134,0.418,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,Clemson University ,Clemson,SC
+770,2010,12,361,6,Diamondbacks,Y,Blake Cooper (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+771,2010,13,391,6,Diamondbacks,N,Kevin Ziomek (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Amherst Regional HS ,Amherst,MA
+772,2010,14,421,6,Diamondbacks,Y,Ty Linton (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Charlotte Christian HS ,Charlotte,NC
+773,2010,15,451,6,Diamondbacks,Y,Mike Bolsinger (minors),RHP,-1.1,36.0,66.0,0.0,0.045,0.106,48.0,8.0,19.0,4.92,1.51,0.0,4Yr,University of Arkansas ,Fayetteville,AR
+774,2010,16,481,6,Diamondbacks,Y,Westley Moss (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Reno ,Reno,NV
+775,2010,17,511,6,Diamondbacks,Y,Derek Eitel (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rose-Hulman Institute of Technology ,Terre Haute,IN
+776,2010,18,541,6,Diamondbacks,Y,Jimmy Comerota (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rice University ,Houston,TX
+777,2010,19,571,6,Diamondbacks,Y,Adam Eaton (minors),OF,16.7,581.0,2271.0,38.0,0.287,0.7759999999999999,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Miami University of Ohio ,Oxford,OH
+778,2010,20,601,6,Diamondbacks,N,Michael Hur (minors),LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Riverside ",Riverside,CA
+779,2010,21,631,6,Diamondbacks,Y,Raoul Torrez (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+780,2010,22,661,6,Diamondbacks,Y,Jeremy Erben (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oklahoma ,Norman,OK
+781,2010,23,691,6,Diamondbacks,N,Roberto Padilla (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Ohlone College ,Fremont,CA
+782,2010,24,721,6,Diamondbacks,Y,Stephen Cardullo (minors),3B,-0.4,42.0,84.0,2.0,0.19,0.574,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+783,2010,25,751,6,Diamondbacks,N,Matt Talley (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,The Citadel ,Charleston,SC
+784,2010,26,781,6,Diamondbacks,Y,Yazy Arbelo (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Keystone College ,LaPlume,PA
+785,2010,27,811,6,Diamondbacks,Y,Niko Gallego (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+786,2010,28,841,6,Diamondbacks,Y,Keith Hessler (minors),LHP,-0.2,35.0,1.0,0.0,1.0,2.0,35.0,1.0,1.0,5.56,1.68,0.0,4Yr,Coastal Carolina University ,Conway,SC
+787,2010,29,871,6,Diamondbacks,Y,Jake Floethe (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+788,2010,30,901,6,Diamondbacks,Y,Ryan Zimmerman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Northwestern State University of Louisiana ,Natchitoches,LA
+789,2010,31,931,6,Diamondbacks,N,Steven Sultzbaugh (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rice University ,Houston,TX
+790,2010,32,961,6,Diamondbacks,Y,Greg Robinson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wright State University ,Dayton,OH
+791,2010,33,991,6,Diamondbacks,N,Andrew Whittington (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southern Arkansas University ,Magnolia,AR
+792,2010,34,1021,6,Diamondbacks,Y,Victor Lara (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Keystone College ,LaPlume,PA
+793,2010,35,1051,6,Diamondbacks,N,Konner Wade (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Chaparral HS ,Scottsdale,AZ
+794,2010,36,1081,6,Diamondbacks,Y,Justin Hilt (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Elon University ,Elon,NC
+795,2010,37,1111,6,Diamondbacks,Y,Michael Weber (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Washington State University ,Pullman,WA
+796,2010,38,1141,6,Diamondbacks,N,Matt Roberts (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Graham HS ,Graham,NC
+797,2010,39,1171,6,Diamondbacks,N,Garrett Nash (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+798,2010,40,1201,6,Diamondbacks,N,Derek Casillas (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hamilton HS ,Chandler,AZ
+799,2010,41,1231,6,Diamondbacks,Y,Mike McGee (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+800,2010,42,1261,6,Diamondbacks,Y,Chris Jarrett (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Anderson University ,Anderson,IN
+801,2010,43,1291,6,Diamondbacks,Y,Tom Belza (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+802,2010,44,1321,6,Diamondbacks,Y,Eric Groff (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Keystone College ,LaPlume,PA
+803,2010,45,1351,6,Diamondbacks,Y,Javan Williams (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Contra Costa College ,San Pablo,CA
+804,2010,46,1381,6,Diamondbacks,Y,Jorge Flores (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hamilton HS ,Chandler,AZ
+805,2010,47,1411,6,Diamondbacks,Y,Casey Upperman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Yavapai College ,Prescott,AZ
+806,2010,48,1441,6,Diamondbacks,Y,Kenneth Sigman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+807,2010,49,1471,6,Diamondbacks,Y,Tad Barton (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Muhlenberg HS ,Laureldale,PA
+808,2010,50,1501,6,Diamondbacks,Y,Trey Ford (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+809,2011,1,3,3,Diamondbacks,Y,Trevor Bauer (minors),RHP,12.9,15.0,24.0,0.0,0.042,0.122,152.0,55.0,47.0,4.03,1.31,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+810,2011,1s,7,7,Diamondbacks,Y,*Archie Bradley (minors),RHP,5.2,138.0,61.0,0.0,0.098,0.195,144.0,15.0,16.0,3.83,1.34,4.0,HS,Broken Arrow HS ,Broken Arrow,OK
+811,2011,1s,43,43,Diamondbacks,Y,*Andrew Chafin (minors),LHP,3.7,205.0,5.0,0.0,0.2,0.4,218.0,7.0,6.0,3.29,1.25,2.0,4Yr,Kent State University ,Kent,OH
+812,2011,2,63,3,Diamondbacks,Y,Anthony Meo (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Coastal Carolina University ,Conway,SC
+813,2011,3,93,3,Diamondbacks,Y,Justin Bianco (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Peters Township HS ,McMurray,PA
+814,2011,4,124,3,Diamondbacks,Y,Evan Marshall (minors),RHP,-0.7,81.0,0.0,0.0,0.0,0.0,101.0,4.0,7.0,5.15,1.74,0.0,4Yr,Kansas State University ,Manhattan,KS
+815,2011,5,154,3,Diamondbacks,Y,Michael Perez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Colegio Vocacional Para Adultos ,San Juan,Puerto
+816,2011,6,184,3,Diamondbacks,N,Matt Price (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+817,2011,7,214,3,Diamondbacks,N,Ben Roberts (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Sentinel MS ,Missoula,MT
+818,2011,8,244,3,Diamondbacks,Y,Jesse Darrah (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Fresno Pacific University ,Fresno,CA
+819,2011,9,274,3,Diamondbacks,Y,John Leonard (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Connellsville Area HS ,Connellsville,PA
+820,2011,10,304,3,Diamondbacks,Y,Kyle Winkler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Christian University ,Fort Worth,TX
+821,2011,11,334,3,Diamondbacks,Y,Will Locante (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Cumberland University ,Lebanon,TN
+822,2011,12,364,3,Diamondbacks,Y,Josh Parr (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Illinois at Urbana-Champaign ,Champaign,IL
+823,2011,13,394,3,Diamondbacks,Y,John Pedrotty (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,College of the Holy Cross ,Worcester,MA
+824,2011,14,424,3,Diamondbacks,Y,Cody Geyer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Walters State Community College ,Morristown,TN
+825,2011,15,454,3,Diamondbacks,Y,Steve Rodriguez (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+826,2011,16,484,3,Diamondbacks,Y,Michael Blake (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Hawaii at Manoa ,Honolulu,HI
+827,2011,17,514,3,Diamondbacks,N,Adam Choplick (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Billy Ryan HS ,Denton,TX
+828,2011,18,544,3,Diamondbacks,Y,Taylor Siemens (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California Baptist University ,Riverside,CA
+829,2011,19,574,3,Diamondbacks,Y,J.D. Pulfer (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oregon ,Eugene,OR
+830,2011,20,604,3,Diamondbacks,N,Tommy Williams (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Palm Beach Gardens HS ,Palm Beach Gardens,FL
+831,2011,21,634,3,Diamondbacks,Y,Jon Griffin (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Central Florida ,Orlando,FL
+832,2011,22,664,3,Diamondbacks,Y,Garrett Weber (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fresno ,Fresno,CA
+833,2011,23,694,3,Diamondbacks,Y,Ryan Court (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Illinois State University ,Normal,IL
+834,2011,24,724,3,Diamondbacks,N,Matt Ogden (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Smokey Hill HS ,Aurora,CO
+835,2011,25,754,3,Diamondbacks,N,George Williams (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,North Carolina State University ,Raleigh,NC
+836,2011,26,784,3,Diamondbacks,Y,Austin Platt (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,,,
+837,2011,27,814,3,Diamondbacks,N,Wyatt Strahan (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Villa Park HS ,Villa Park,CA
+838,2011,28,844,3,Diamondbacks,Y,Matt Sample (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rogers State University ,Claremore,OK
+839,2011,29,874,3,Diamondbacks,Y,Carter Bell (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oregon State University ,Corvallis,OR
+840,2011,30,904,3,Diamondbacks,Y,Dexter Price (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina Beaufort ,Beaufort,SC
+841,2011,31,934,3,Diamondbacks,Y,Matthew Jensen (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, San Luis Obispo ",San Luis Obispo,CA
+842,2011,32,964,3,Diamondbacks,N,Alex Vetter (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Feather River College ,Quincy,CA
+843,2011,33,994,3,Diamondbacks,N,Anthony Banda (minors),LHP,0.0,7.0,5.0,0.0,0.0,0.0,11.0,3.0,3.0,5.13,1.26,0.0,HS,Sinton HS ,Sinton,TX
+844,2011,34,1024,3,Diamondbacks,Y,Zachary Jones (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+845,2011,35,1054,3,Diamondbacks,Y,Ross Gerdeman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Bowling Green State University ,Bowling Green,OH
+846,2011,36,1084,3,Diamondbacks,Y,Bryan Henry (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Florida State University ,Tallahassee,FL
+847,2011,36,1084,3,Diamondbacks,Y,Bryan Henry (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Keystone College ,LaPlume,PA
+848,2011,37,1114,3,Diamondbacks,Y,Elroy Urbina (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of the Incarnate Word ,San Antonio,TX
+849,2011,38,1144,3,Diamondbacks,Y,Kerry Jenkins (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,San Jose State University ,San Jose,CA
+850,2011,39,1174,3,Diamondbacks,Y,Chris Ellison (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oklahoma ,Norman,OK
+851,2011,40,1204,3,Diamondbacks,Y,Seth Simmons (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+852,2011,41,1234,3,Diamondbacks,N,Michael Cederoth (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Steele Canyon HS ,Spring Valley,CA
+853,2011,42,1264,3,Diamondbacks,Y,Tyler Bream (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+854,2011,43,1294,3,Diamondbacks,Y,Alex Capaul (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Hawaii at Manoa ,Honolulu,HI
+855,2011,44,1324,3,Diamondbacks,Y,Derek Luciano (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Central Florida ,Orlando,FL
+856,2011,45,1354,3,Diamondbacks,N,James Lane (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Coral Shores HS ,Islamorada,FL
+857,2011,46,1384,3,Diamondbacks,Y,Joe Loftus (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+858,2011,47,1414,3,Diamondbacks,N,Tucker Ward (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,UMS Prep HS ,Mobile,AL
+859,2011,47,1414,3,Diamondbacks,N,Tucker Ward (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,University of Mobile ,Mobile,AL
+860,2011,48,1444,3,Diamondbacks,Y,Ray Hernandez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+861,2011,49,1474,3,Diamondbacks,Y,Jake Williams (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Brophy College Preparatory ,Phoenix,AZ
+862,2011,49,1474,3,Diamondbacks,Y,Jake Williams (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,South Mountain Community College ,Phoenix,AZ
+863,2011,50,1504,3,Diamondbacks,N,David Masters (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Timberland HS ,Wentzville,MO
+864,2012,1,26,26,Diamondbacks,Y,Stryker Trahan (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Acadiana HS ,Lafayette,LA
+865,2012,2,90,30,Diamondbacks,Y,Jose Munoz (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Los Altos HS ,Hacienda Heights,CA
+866,2012,3,120,25,Diamondbacks,Y,Jake Barrett (minors),RHP,0.9,98.0,0.0,0.0,0.0,0.0,101.0,2.0,3.0,4.03,1.36,4.0,4Yr,Arizona State University ,Tempe,AZ
+867,2012,4,153,25,Diamondbacks,Y,Chuck Taylor (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mansfield Timberview HS ,Arlington,TX
+868,2012,5,183,25,Diamondbacks,Y,Ronnie Freeman (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kennesaw State University ,Kennesaw,GA
+869,2012,6,213,25,Diamondbacks,Y,Jake Lamb (minors),3B,6.3,495.0,1727.0,75.0,0.248,0.784,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Washington ,Seattle,WA
+870,2012,7,243,25,Diamondbacks,Y,Andrew Velazquez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Fordham Prep HS ,New York,NY
+871,2012,8,273,25,Diamondbacks,Y,Evan Marzilli (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+872,2012,9,303,25,Diamondbacks,Y,Jeff Gibbs (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maine at Orono ,Orono,ME
+873,2012,10,333,25,Diamondbacks,Y,Daniel Poma (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Hofstra University ,Hempstead,NY
+874,2012,11,363,25,Diamondbacks,Y,Ben Eckels (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Davis HS ,Davis,CA
+875,2012,12,393,25,Diamondbacks,Y,Alex Glenn (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona Christian University ,Phoenix,AZ
+876,2012,13,423,25,Diamondbacks,Y,Phildrick Llewellyn (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Trinity Christian Academy ,Lake Worth,FL
+877,2012,14,453,25,Diamondbacks,Y,Derrick Stultz (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+878,2012,15,483,25,Diamondbacks,Y,Blake Forslund (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Liberty University ,Lynchburg,VA
+879,2012,16,513,25,Diamondbacks,N,Landon Lassiter (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,North Davidson HS ,Lexington,NC
+880,2012,17,543,25,Diamondbacks,Y,Yogey Perez-Ramos (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Miami-Dade College, Kendall Campus ",Miami,FL
+881,2012,18,573,25,Diamondbacks,Y,Kevin Medrano (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri State University ,Springfield,MO
+882,2012,19,603,25,Diamondbacks,Y,RJ Hively (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mississippi ,Oxford,MS
+883,2012,20,633,25,Diamondbacks,Y,Jacob House (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas A&M University ,College Station,TX
+884,2012,21,663,25,Diamondbacks,Y,Rudy Flores (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida International University ,Miami,FL
+885,2012,22,693,25,Diamondbacks,N,Holden Helmink (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Willis HS ,Willis,TX
+886,2012,22,693,25,Diamondbacks,N,Holden Helmink (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"San Jacinto College, North Campus ",Houston,TX
+887,2012,23,723,25,Diamondbacks,N,Matt Dermody (minors),LHP,0.0,1.0,0.0,0.0,0.0,0.0,28.0,2.0,0.0,5.33,1.34,0.0,4Yr,University of Iowa ,Iowa City,IA
+888,2012,24,753,25,Diamondbacks,Y,Mark Ginther (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+889,2012,25,783,25,Diamondbacks,Y,Vince Spilker (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lee University ,Cleveland,TN
+890,2012,26,813,25,Diamondbacks,Y,Chris Capper (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Brigham Young University ,Provo,UT
+891,2012,27,843,25,Diamondbacks,Y,Damion Smith (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Holy Names HS ,Windsor,ON
+892,2012,28,873,25,Diamondbacks,N,Max Schrock (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cardinal Gibbons HS ,Raleigh,NC
+893,2012,29,903,25,Diamondbacks,Y,Adam McConnell (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Richmond ,Richmond,VA
+894,2012,30,933,25,Diamondbacks,Y,Chase Stevens (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+895,2012,31,963,25,Diamondbacks,Y,Andrew Potter (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Eastside HS ,Lancaster,CA
+896,2012,32,993,25,Diamondbacks,Y,Daniel Watts (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Jacksonville State University ,Jacksonville,AL
+897,2012,33,1023,25,Diamondbacks,Y,Jonathan Pulley (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Spartanburg Methodist College ,Spartanburg,SC
+898,2012,34,1053,25,Diamondbacks,Y,Jared Ray (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Houston ,Houston,TX
+899,2012,35,1083,25,Diamondbacks,Y,Robbie Buller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Houston Baptist University ,Houston,TX
+900,2012,36,1113,25,Diamondbacks,Y,Andrew Barbosa (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+901,2012,37,1143,25,Diamondbacks,Y,Breland Almadova (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Hawaii at Manoa ,Honolulu,HI
+902,2012,38,1173,25,Diamondbacks,N,Cam Gibson (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Grosse Pointe South HS ,Grosse Pointe Farms,MI
+903,2012,39,1203,25,Diamondbacks,Y,Bubu Garcia (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Gilroy HS ,Gilroy,CA
+904,2012,40,1233,25,Diamondbacks,N,Zane Hemond (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Montrose HS ,Montrose,CO
+905,2013,1,15,15,Diamondbacks,Y,Braden Shipley (minors),RHP,-0.2,25.0,34.0,0.0,0.08800000000000001,0.20600000000000002,26.0,4.0,6.0,5.49,1.6,0.0,4Yr,University of Nevada-Reno ,Reno,NV
+906,2013,1,36,36,Diamondbacks,Y,Aaron Blair (minors),RHP,-2.0,16.0,22.0,0.0,0.091,0.221,16.0,2.0,8.0,7.89,1.73,0.0,4Yr,Marshall University ,Huntington,WV
+907,2013,2,52,13,Diamondbacks,Y,Justin Williams (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Terrebonne HS ,Houma,LA
+908,2013,3,88,15,Diamondbacks,Y,Daniel Palka (minors),1B,-0.3,65.0,218.0,12.0,0.23399999999999999,0.748,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Georgia Institute of Technology ,Atlanta,GA
+909,2013,4,120,14,Diamondbacks,Y,Matt McPhearson (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Riverdale Baptist HS ,Upper Marlboro,MD
+910,2013,5,150,14,Diamondbacks,Y,Jamie Westbrook (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Basha HS ,Gilbert,AZ
+911,2013,6,180,14,Diamondbacks,Y,Colin Bray (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Faulkner State College ,Bay Minette,AL
+912,2013,7,210,14,Diamondbacks,Y,Daniel Gibson (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Florida ,Gainesville,FL
+913,2013,8,240,14,Diamondbacks,Y,Brad Keller (minors),RHP,1.7,2.0,0.0,0.0,0.0,0.0,29.0,2.0,4.0,3.13,1.37,0.0,HS,Flowery Branch HS ,Flowery Branch,GA
+914,2013,9,270,14,Diamondbacks,Y,Grant Nelson (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Louis University ,St. Louis,MO
+915,2013,10,300,14,Diamondbacks,Y,Jimmie Sherfy (minors),RHP,0.8,14.0,0.0,0.0,0.0,0.0,15.0,2.0,0.0,0.61,0.89,1.0,4Yr,University of Oregon ,Eugene,OR
+916,2013,11,330,14,Diamondbacks,Y,Jacob Cordero (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Puerto Rico Baseball Academy ,Gurabo,Puerto
+917,2013,12,360,14,Diamondbacks,Y,Dane McFarland (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,JSerra Catholic HS ,San Juan Capistrano,CA
+918,2013,13,390,14,Diamondbacks,Y,Taylor Ratliff (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Florida ,Gainesville,FL
+919,2013,14,420,14,Diamondbacks,Y,Steve Hathaway (minors),LHP,0.1,21.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,4.91,1.64,0.0,4Yr,Franklin Pierce University ,Rindge,NH
+920,2013,15,450,14,Diamondbacks,Y,Jordan Parr (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Illinois at Urbana-Champaign ,Champaign,IL
+921,2013,16,480,14,Diamondbacks,Y,Elvin Soto (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Pittsburgh ,Pittsburgh,PA
+922,2013,17,510,14,Diamondbacks,Y,Ryan Gebhardt (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana Tech University ,Ruston,LA
+923,2013,18,540,14,Diamondbacks,Y,Ryan Kinsella (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Elon University ,Elon,NC
+924,2013,19,570,14,Diamondbacks,Y,Jake Mayers (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Richmond ,Richmond,VA
+925,2013,20,600,14,Diamondbacks,Y,Adam Miller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Brigham Young University ,Provo,UT
+926,2013,21,630,14,Diamondbacks,N,Andy Ravel (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Wilson HS ,Reading,PA
+927,2013,22,660,14,Diamondbacks,Y,Antonio Alvarez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Elon University ,Elon,NC
+928,2013,23,690,14,Diamondbacks,Y,Randy McCurry (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oklahoma State University ,Stillwater,OK
+929,2013,24,720,14,Diamondbacks,Y,Zach Esquerra (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California Baptist University ,Riverside,CA
+930,2013,25,750,14,Diamondbacks,Y,Bud Jeter (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Presbyterian College ,Clinton,SC
+931,2013,26,780,14,Diamondbacks,Y,George Roberts (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kent State University ,Kent,OH
+932,2013,27,810,14,Diamondbacks,Y,Jake Miller (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Baylor University ,Waco,TX
+933,2013,28,840,14,Diamondbacks,Y,Johnny Shuttlesworth (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Faulkner University ,Montgomery,AL
+934,2013,29,870,14,Diamondbacks,N,Matt Foster (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Valley HS ,Valley,AL
+935,2013,30,900,14,Diamondbacks,Y,Denver Chavez (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, San Luis Obispo ",San Luis Obispo,CA
+936,2013,31,930,14,Diamondbacks,Y,Joel Thys (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona Christian University ,Phoenix,AZ
+937,2013,32,960,14,Diamondbacks,Y,Dallas Newton (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pitt Community College ,Winterville,NC
+938,2013,33,990,14,Diamondbacks,Y,Alex Byo (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tulane University ,New Orleans,LA
+939,2013,34,1020,14,Diamondbacks,N,Cory Hahn (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+940,2013,35,1050,14,Diamondbacks,Y,Tyler Toyfair (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Massachusetts Lowell ,Lowell,MA
+941,2013,36,1080,14,Diamondbacks,N,Matt Vogel (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Patchogue-Medford HS ,Medford,NY
+942,2013,37,1110,14,Diamondbacks,Y,Matt Vinson (minors),LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arkansas ,Fayetteville,AR
+943,2013,38,1140,14,Diamondbacks,Y,Kurtis Kostuk (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Yale SS ,Abbotsford,BC
+944,2013,39,1170,14,Diamondbacks,N,Mark Karaviotis (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Maui HS ,Kahului,HI
+945,2013,39,1170,14,Diamondbacks,N,Mark Karaviotis (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,University of Oregon ,Eugene,OR
+946,2013,40,1200,14,Diamondbacks,N,Frank Ratcliff (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Houston ,Houston,TX
+947,2014,1,16,16,Diamondbacks,Y,Touki Toussaint (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Coral Springs Christian Academy ,Coral Springs,FL
+948,2014,2,54,13,Diamondbacks,Y,Cody Reed (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ardmore HS ,Ardmore,AL
+949,2014,2,69,28,Diamondbacks,Y,Marcus Wilson (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Junipero Serra HS ,Gardena,CA
+950,2014,2,70,29,Diamondbacks,Y,Isan Diaz (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Springfield HS ,Springfield,MA
+951,2014,3,89,15,Diamondbacks,Y,Matt Railey (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,North Florida Christian HS ,Tallahassee,FL
+952,2014,4,120,15,Diamondbacks,Y,Brent Jones (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Cornell University ,Ithaca,NY
+953,2014,5,150,15,Diamondbacks,Y,Mason McCullough (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lander University ,Greenwood,SC
+954,2014,6,180,15,Diamondbacks,Y,Zac Curtis (minors),LHP,0.1,30.0,0.0,0.0,0.0,0.0,34.0,0.0,1.0,3.73,1.63,0.0,4Yr,Middle Tennessee State University ,Murfreesboro,TN
+955,2014,7,210,15,Diamondbacks,Y,Tyler Humphreys (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,St. Johns River Community College ,Palatka,FL
+956,2014,8,240,15,Diamondbacks,Y,Grant Heyman (minors),LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Nevada ,Henderson,NV
+957,2014,9,270,15,Diamondbacks,Y,Justin Gonzalez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+958,2014,10,300,15,Diamondbacks,Y,Scott Schultz (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oregon State University ,Corvallis,OR
+959,2014,11,330,15,Diamondbacks,Y,Jared Miller (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+960,2014,12,360,15,Diamondbacks,Y,Holden Helmink (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Willis HS ,Willis,TX
+961,2014,12,360,15,Diamondbacks,Y,Holden Helmink (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"San Jacinto College, North Campus ",Houston,TX
+962,2014,13,390,15,Diamondbacks,N,C.J. Moore (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Suffield Academy ,Suffield,CT
+963,2014,14,420,15,Diamondbacks,Y,Kevin Cron (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Christian University ,Fort Worth,TX
+964,2014,15,450,15,Diamondbacks,Y,Tyler Baker (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wichita State University ,Wichita,KS
+965,2014,16,480,15,Diamondbacks,Y,Kevin Simmons (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,George C. Wallace State Community College ,Selma,AL
+966,2014,17,510,15,Diamondbacks,Y,Mike Abreu (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Hillsborough Community College ,Tampa,FL
+967,2014,18,540,15,Diamondbacks,N,Garrett Mundell (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fresno ,Fresno,CA
+968,2014,19,570,15,Diamondbacks,Y,Dan Savas (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Illinois State University ,Normal,IL
+969,2014,20,600,15,Diamondbacks,N,J.B. Bukauskas (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Stone Bridge HS ,Ashburn,VA
+970,2014,21,630,15,Diamondbacks,Y,Gerard Hernandez (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Pinnacle HS ,Phoenix,AZ
+971,2014,22,660,15,Diamondbacks,Y,Michael Branigan (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Forsyth Central HS ,Gainesville,GA
+972,2014,23,690,15,Diamondbacks,N,John Fidanza (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Georgia Gwinnett College ,Lawrenceville,GA
+973,2014,24,720,15,Diamondbacks,Y,Mike Cetta (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Central Florida Community College ,Ocala,FL
+974,2014,25,750,15,Diamondbacks,Y,Brando Tessar (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oregon ,Eugene,OR
+975,2014,26,780,15,Diamondbacks,N,Willie Rios (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,St. Bernard School ,Montville,CT
+976,2014,27,810,15,Diamondbacks,Y,Nate Robertson (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Colorado Mesa University ,Grand Junction,CO
+977,2014,28,840,15,Diamondbacks,Y,Bennie Robinson (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Agricultural and Mechanical University ,Tallahassee,FL
+978,2014,29,870,15,Diamondbacks,Y,Nick Baker (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Chico ,Chico,CA
+979,2014,30,900,15,Diamondbacks,Y,Trevor Mitsui (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Washington ,Seattle,WA
+980,2014,31,930,15,Diamondbacks,Y,Roberto Cancio (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Broward Community College ,Fort Lauderdale,FL
+981,2014,32,960,15,Diamondbacks,N,Cameron Bishop (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Brea Olinda HS ,Brea,CA
+982,2014,33,990,15,Diamondbacks,Y,Tyler Bolton (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+983,2014,34,1020,15,Diamondbacks,Y,Nate Irving (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Virginia ,Charlottesville,VA
+984,2014,35,1050,15,Diamondbacks,N,Justin Morris (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,DeMatha HS ,Hyattsville,MD
+985,2014,36,1080,15,Diamondbacks,Y,Will Landsheft (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Drury University ,Springfield,MO
+986,2014,37,1110,15,Diamondbacks,N,Keith Holcombe (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hillcrest HS ,Tuscaloosa,AL
+987,2014,38,1140,15,Diamondbacks,Y,Lawrence Pardo (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+988,2014,39,1170,15,Diamondbacks,N,Drew Rasmussen (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mount Spokane HS ,Mead,WA
+989,2014,40,1200,15,Diamondbacks,N,Zack Gahagan (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,North Henderson HS ,Hendersonville,NC
+990,2015,1,1,1,Diamondbacks,Y,Dansby Swanson (minors),SS,2.8,261.0,917.0,16.0,0.249,0.685,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Vanderbilt University ,Nashville,TN
+991,2015,2,43,1,Diamondbacks,Y,Alex Young (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Christian University ,Fort Worth,TX
+992,2015,3,76,1,Diamondbacks,Y,Taylor Clarke (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,College of Charleston ,Charleston,SC
+993,2015,4,106,1,Diamondbacks,Y,Breckin Williams (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+994,2015,5,136,1,Diamondbacks,Y,Ryan Burr (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+995,2015,6,166,1,Diamondbacks,Y,Tyler Mark (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Concordia University ,Irvine,CA
+996,2015,7,196,1,Diamondbacks,Y,Francis Christy (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Palomar College ,San Marcos,CA
+997,2015,8,226,1,Diamondbacks,Y,Kal Simmons (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kennesaw State University ,Kennesaw,GA
+998,2015,9,256,1,Diamondbacks,Y,Pierce Romero (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Santa Barbara City College ,Santa Barbara,CA
+999,2015,10,286,1,Diamondbacks,Y,Joey Armstrong (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Las Vegas ,Las Vegas,NV
+1000,2015,11,316,1,Diamondbacks,Y,Austin Byler (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Reno ,Reno,NV
+1001,2015,12,346,1,Diamondbacks,Y,Wesley Rodriguez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,George Washington HS ,New York,NY
+1002,2015,13,376,1,Diamondbacks,Y,Jason Morozowski (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mount Olive College ,Mount Olive,NC
+1003,2015,14,406,1,Diamondbacks,Y,Luke Lowery (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,East Carolina University ,Greenville,NC
+1004,2015,15,436,1,Diamondbacks,Y,Justin Donatella (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, San Diego ",La Jolla,CA
+1005,2015,16,466,1,Diamondbacks,Y,Zach Nehrir (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Houston Baptist University ,Houston,TX
+1006,2015,17,496,1,Diamondbacks,Y,Austin Mason (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,The Citadel ,Charleston,SC
+1007,2015,18,526,1,Diamondbacks,Y,Daniel Comstock (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Menlo College ,Atherton,CA
+1008,2015,19,556,1,Diamondbacks,Y,Jacy Cave (minors),RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,New Mexico Junior College ,Hobbs,NM
+1009,2015,20,586,1,Diamondbacks,Y,Will Lowman (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kennesaw State University ,Kennesaw,GA
+1010,2015,21,616,1,Diamondbacks,Y,Alexis Olmeda (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Yavapai College ,Prescott,AZ
+1011,2015,22,646,1,Diamondbacks,Y,Zach Hoffpauir (minors),RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stanford University ,Palo Alto,CA
+1012,2015,23,676,1,Diamondbacks,Y,Logan Soole (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Monarch HS ,Louisville,CO
+1013,2015,24,706,1,Diamondbacks,Y,Bryant Holtmann (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+1014,2015,25,736,1,Diamondbacks,Y,Stephen Dezzi (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Tampa ,Tampa,FL
+1015,2015,26,766,1,Diamondbacks,Y,Kirby Bellow (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Texas at Austin ,Austin,TX
+1016,2015,27,796,1,Diamondbacks,Y,Cameron Gann (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stephen F Austin State University ,Nacogdoches,TX
+1017,2015,28,826,1,Diamondbacks,N,Jesse Wilkening (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Hanover Central HS ,Cedar Lake,IN
+1018,2015,29,856,1,Diamondbacks,Y,Keegan Long (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Joseph's College ,Rensselaer,IN
+1019,2015,30,886,1,Diamondbacks,Y,Jeff Smith (minors),IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Missouri Baptist University ,St. Louis,MO
+1020,2015,31,916,1,Diamondbacks,N,Vance Vizcaino (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Stetson University ,DeLand,FL
+1021,2015,32,946,1,Diamondbacks,N,Bryan Hoeing (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Batesville HS ,Batesville,IN
+1022,2015,33,976,1,Diamondbacks,Y,Luis Silverio (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Eastern Florida State College ,Cocoa,FL
+1023,2015,34,1006,1,Diamondbacks,Y,Jake Peevyhouse (minors),LF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Arizona State University ,Tempe,AZ
+1024,2015,35,1036,1,Diamondbacks,Y,Quinnton Mack (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,New Mexico State University ,Las Cruces,NM
+1025,2015,36,1066,1,Diamondbacks,Y,Cameron Smith (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Tech University ,Lubbock,TX
+1026,2015,37,1096,1,Diamondbacks,Y,Max Brown (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Kansas State University ,Manhattan,KS
+1027,2015,38,1126,1,Diamondbacks,Y,Josh Anderson (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida International University ,Miami,FL
+1028,2015,39,1156,1,Diamondbacks,N,Georgie Salem (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Alabama ,Tuscaloosa,AL
+1029,2015,40,1186,1,Diamondbacks,Y,Tucker Ward (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,UMS Prep HS ,Mobile,AL
+1030,2015,40,1186,1,Diamondbacks,Y,Tucker Ward (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Mobile ,Mobile,AL
+1031,2016,1,39,39,Diamondbacks,Y,Anfernee Grier (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Auburn University ,Auburn,AL
+1032,2016,2,52,11,Diamondbacks,Y,Andy Yerzy (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,York Mills Collegiate Institute ,Toronto,ON
+1033,2016,3,89,12,Diamondbacks,Y,Jon Duplantier (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rice University ,Houston,TX
+1034,2016,4,119,13,Diamondbacks,Y,Curtis Taylor (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of British Columbia ,Vancouver,BC
+1035,2016,5,149,13,Diamondbacks,Y,Joey Rose (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Toms River North HS ,Toms River,NJ
+1036,2016,6,179,13,Diamondbacks,Y,Mack Lemieux (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Palm Beach Community College ,Lake Worth,FL
+1037,2016,7,209,13,Diamondbacks,Y,Jordan Watson (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Sciences and Arts of Oklahoma ,Chickasha,OK
+1038,2016,8,239,13,Diamondbacks,Y,Ryan January (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"San Jacinto College, North Campus ",Houston,TX
+1039,2016,9,269,13,Diamondbacks,Y,Tommy Eveld (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Florida ,Tampa,FL
+1040,2016,10,299,13,Diamondbacks,Y,Stephen Smith (minors),RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas Tech University ,Lubbock,TX
+1041,2016,11,329,13,Diamondbacks,Y,Jake Polancic (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Yale SS ,Abbotsford,BC
+1042,2016,12,359,13,Diamondbacks,Y,Gavin Stupienski (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Carolina at Wilmington ,Wilmington,NC
+1043,2016,13,389,13,Diamondbacks,Y,Manny Jefferson (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Pepperdine University ,Malibu,CA
+1044,2016,14,419,13,Diamondbacks,Y,Colin Poche (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Dallas Baptist University ,Dallas,TX
+1045,2016,15,449,13,Diamondbacks,Y,Tyler Keele (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Morehead State University ,Morehead,KY
+1046,2016,16,479,13,Diamondbacks,Y,Nick Blackburn (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Illinois at Urbana-Champaign ,Champaign,IL
+1047,2016,17,509,13,Diamondbacks,Y,Jake Winston (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Southern Mississippi ,Hattiesburg,MS
+1048,2016,18,539,13,Diamondbacks,N,Bowden Francis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+1049,2016,19,569,13,Diamondbacks,Y,Mark Karaviotis (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Maui HS ,Kahului,HI
+1050,2016,19,569,13,Diamondbacks,Y,Mark Karaviotis (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oregon ,Eugene,OR
+1051,2016,20,599,13,Diamondbacks,Y,Connor Grey (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Bonaventure University ,St. Bonaventure,NY
+1052,2016,21,629,13,Diamondbacks,N,Cameron Cannon (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mountain Ridge HS ,Glendale,AZ
+1053,2016,22,659,13,Diamondbacks,Y,Kevin Ginkel (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arizona ,Tucson,AZ
+1054,2016,23,689,13,Diamondbacks,Y,Luke Van Rycheghem (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Ursuline College SS ,Chatham-Kent,ON
+1055,2016,24,719,13,Diamondbacks,Y,Riley Smith (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Louisiana State University ,Baton Rouge,LA
+1056,2016,25,749,13,Diamondbacks,Y,Myles Babitt (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University East Bay ,Hayward,CA
+1057,2016,26,779,13,Diamondbacks,Y,Tanner Hill (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Texas State University ,San Marcos,TX
+1058,2016,27,809,13,Diamondbacks,Y,Gabe Gonzalez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,College of Southern Nevada ,Henderson,NV
+1059,2016,28,839,13,Diamondbacks,N,Edmond Americaan (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Trinity Christian Academy ,Lake Worth,FL
+1060,2016,29,869,13,Diamondbacks,N,Hunter Kiel (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Pensacola Junior College ,Pensacola,FL
+1061,2016,30,899,13,Diamondbacks,N,Brandon Martorano (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Christian Brothers Academy ,Lincroft,NJ
+1062,2016,31,929,13,Diamondbacks,Y,Williams Durruthy (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida International University ,Miami,FL
+1063,2016,32,959,13,Diamondbacks,Y,Trevor Simms (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tulane University ,New Orleans,LA
+1064,2016,33,989,13,Diamondbacks,Y,Paxton De La Garza (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Angelo State University ,San Angelo,TX
+1065,2016,34,1019,13,Diamondbacks,Y,Connor Owings (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Coastal Carolina University ,Conway,SC
+1066,2016,35,1049,13,Diamondbacks,Y,Billy Endris (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Atlantic University ,Boca Raton,FL
+1067,2016,36,1079,13,Diamondbacks,Y,Rob Galligan (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maryland ,College Park,MD
+1068,2016,37,1109,13,Diamondbacks,N,Welby Malczewski (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Heartland Community College ,Normal,IL
+1069,2016,38,1139,13,Diamondbacks,N,Nelson Mompierre (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Miami-Dade College, Wolfson Campus ",Miami,FL
+1070,2016,39,1169,13,Diamondbacks,N,Jacob Olson (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,West Georgia Technical College ,LaGrange,GA
+1071,2016,40,1199,13,Diamondbacks,N,Jordan Wiley (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Richland HS ,North Richland Hills,TX
+1072,2017,1,7,7,Diamondbacks,Y,Pavin Smith (minors),1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Virginia ,Charlottesville,VA
+1073,2017,2,44,8,Diamondbacks,Y,Drew Ellis (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisville ,Louisville,KY
+1074,2017,2,68,32,Diamondbacks,Y,Daulton Varsho (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Wisconsin at Milwaukee ,Milwaukee,WI
+1075,2017,3,82,7,Diamondbacks,Y,Matt Tabor (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Milton Academy ,Milton,MA
+1076,2017,4,112,7,Diamondbacks,Y,Harrison Francis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Lawton Chiles HS ,Tallahassee,FL
+1077,2017,5,142,7,Diamondbacks,Y,Buddy Kennedy (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Millville Senior HS ,Millville,NJ
+1078,2017,6,172,7,Diamondbacks,Y,Brian Shaffer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Maryland ,College Park,MD
+1079,2017,7,202,7,Diamondbacks,Y,Jose Caballero (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+1080,2017,8,232,7,Diamondbacks,Y,Tim Susnara (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oregon ,Eugene,OR
+1081,2017,9,262,7,Diamondbacks,Y,Cam Duzenack (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Dallas Baptist University ,Dallas,TX
+1082,2017,10,292,7,Diamondbacks,Y,Ryan Grotjohn (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Bakersfield ,Bakersfield,CA
+1083,2017,11,322,7,Diamondbacks,Y,Tra Holmes (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Faulkner University ,Montgomery,AL
+1084,2017,12,352,7,Diamondbacks,Y,Matt Brill (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Appalachian State University ,Boone,NC
+1085,2017,13,382,7,Diamondbacks,N,Riley Cabral (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Chipola College ,Marianna,FL
+1086,2017,14,412,7,Diamondbacks,Y,Keshawn Lynch (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"State College of Florida, Manatee-Sarasota ",Bradenton,FL
+1087,2017,15,442,7,Diamondbacks,N,Clayton Keyes (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Bishop Carroll HS ,Calgary,AB
+1088,2017,16,472,7,Diamondbacks,Y,Jeff Bain (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, Pomona ",Pomona,CA
+1089,2017,17,502,7,Diamondbacks,Y,Trent Autry (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Florence-Darlington Technical College ,Florence,SC
+1090,2017,18,532,7,Diamondbacks,Y,Kevin Watson (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Beaverton HS ,Beaverton,OR
+1091,2017,19,562,7,Diamondbacks,Y,Ernie De La Trinidad (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Las Vegas ,Las Vegas,NV
+1092,2017,20,592,7,Diamondbacks,Y,Dominic Miroglio (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of San Francisco ,San Francisco,CA
+1093,2017,21,622,7,Diamondbacks,N,Jack Maynard (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Carolina at Greensboro ,Greensboro,NC
+1094,2017,22,652,7,Diamondbacks,Y,Cole Stapler (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Nicholls State University ,Thibodaux,LA
+1095,2017,23,682,7,Diamondbacks,Y,Matt Peacock (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Alabama ,Mobile,AL
+1096,2017,24,712,7,Diamondbacks,Y,Jancarlos Cintron (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Nova Southeastern University ,Fort Lauderdale,FL
+1097,2017,25,742,7,Diamondbacks,Y,Cole Bartlett (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+1098,2017,26,772,7,Diamondbacks,Y,Abraham Almonte (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Philadelphia University ,Philadelphia,PA
+1099,2017,27,802,7,Diamondbacks,N,Andrew Eyster (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Forest HS ,Ocala,FL
+1100,2017,28,832,7,Diamondbacks,Y,Jimmy Johnson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lamar University ,Beaumont,TX
+1101,2017,29,862,7,Diamondbacks,N,Tarik Skubal (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Seattle University ,Seattle,WA
+1102,2017,30,892,7,Diamondbacks,Y,Ryan Dobson (minors),IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fresno ,Fresno,CA
+1103,2017,31,922,7,Diamondbacks,N,Cole Percival (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Riverside Poly HS ,Riverside,CA
+1104,2017,32,952,7,Diamondbacks,Y,William Gorman (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Rochester Institute of Technology ,Henrietta,NY
+1105,2017,33,982,7,Diamondbacks,Y,Renae Martinez (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oklahoma ,Norman,OK
+1106,2017,34,1012,7,Diamondbacks,Y,Dan Swain (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Siena College ,Loudonville,NY
+1107,2017,35,1042,7,Diamondbacks,Y,Zach Almond (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Catawba College ,Salisbury,NC
+1108,2017,36,1072,7,Diamondbacks,N,Boyd Vander Kooi (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Skyline HS ,Mesa,AZ
+1109,2017,37,1102,7,Diamondbacks,N,David Vazquez (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Stoneman-Douglas HS ,Parkland,FL
+1110,2017,38,1132,7,Diamondbacks,N,Emerson Hancock (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cairo HS ,Cairo,GA
+1111,2017,39,1162,7,Diamondbacks,N,Nathan Reynolds (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Louisiana at Monroe ,Monroe,LA
+1112,2017,40,1192,7,Diamondbacks,Y,Terence Connelly (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Carolina at Wilmington ,Wilmington,NC
+1113,2018,1,25,25,Diamondbacks,0.0,Matt McLain (minors),2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Beckman HS ,Irvine,CA
+1114,2018,1,39,39,Diamondbacks,0.0,Jake McCarthy (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Virginia ,Charlottesville,VA
+1115,2018,2,63,20,Diamondbacks,0.0,Alek Thomas (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Mount Carmel HS ,Chicago,IL
+1116,2018,3,99,21,Diamondbacks,0.0,Jackson Goddard (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kansas ,Lawrence,KS
+1117,2018,4,129,25,Diamondbacks,0.0,Ryan Weiss (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Wright State University ,Dayton,OH
+1118,2018,5,159,25,Diamondbacks,0.0,Matt Mercer (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Oregon ,Eugene,OR
+1119,2018,6,189,25,Diamondbacks,0.0,Ryan Miller (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Clemson University ,Clemson,SC
+1120,2018,7,219,25,Diamondbacks,0.0,Travis Moths (minors),P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tennessee Technological University ,Cookeville,TN
+1121,2018,8,249,25,Diamondbacks,0.0,Levi Kelly (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,IMG Academy ,Bradenton,FL
+1122,2018,9,279,25,Diamondbacks,0.0,Tyler Holton (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida State University ,Tallahassee,FL
+1123,2018,10,309,25,Diamondbacks,0.0,Nick Dalesandro (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Purdue University ,West Lafayette,IN
+1124,2018,11,339,25,Diamondbacks,0.0,Blaze Alexander (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,IMG Academy ,Bradenton,FL
+1125,2018,12,369,25,Diamondbacks,0.0,Justin Lewis (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Kentucky ,Lexington,KY
+1126,2018,13,399,25,Diamondbacks,0.0,L.T. Tolbert (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of South Carolina ,Columbia,SC
+1127,2018,14,429,25,Diamondbacks,0.0,Josh Green (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southeastern Louisiana University ,Hammond,LA
+1128,2018,15,459,25,Diamondbacks,0.0,Zack Shannon (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Delta State University ,Cleveland,MS
+1129,2018,16,489,25,Diamondbacks,0.0,Ethan Larrison (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Indiana State University ,Terre Haute,IN
+1130,2018,17,519,25,Diamondbacks,0.0,Justin Garcia (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arkansas at Little Rock ,Little Rock,AR
+1131,2018,18,549,25,Diamondbacks,0.0,Kyler Stout (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Oral Roberts University ,Tulsa,OK
+1132,2018,19,579,25,Diamondbacks,0.0,Andy Toelken (minors),P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Missouri Columbia ,Columbia,MO
+1133,2018,20,609,25,Diamondbacks,0.0,Erin Baldwin (minors),P,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Samford University ,Birmingham,AL
+1134,2018,21,639,25,Diamondbacks,0.0,Jacob Stevens (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Boston College ,Chestnut Hill,MA
+1135,2018,22,669,25,Diamondbacks,0.0,Blake Workman (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,California State University Fullerton ,Fullerton,CA
+1136,2018,23,699,25,Diamondbacks,0.0,Mario Leon (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Florida Gulf Coast University ,Fort Myers,FL
+1137,2018,24,729,25,Diamondbacks,0.0,Bryan Menendez (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Nevada-Las Vegas ,Las Vegas,NV
+1138,2018,25,759,25,Diamondbacks,0.0,Landon Whitson (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Lenoir-Rhyne College ,Hickory,NC
+1139,2018,26,789,25,Diamondbacks,0.0,Ethan Small (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Mississippi State University ,Mississippi State,MS
+1140,2018,27,819,25,Diamondbacks,0.0,Christian Jayne (minors),CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Terry Sanford HS ,Fayetteville,NC
+1141,2018,28,849,25,Diamondbacks,0.0,Marshawn Taylor (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Grambling State University ,Grambling,LA
+1142,2018,29,879,25,Diamondbacks,0.0,Luke Bartnicki (minors),LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Walton HS ,Marietta,GA
+1143,2018,30,909,25,Diamondbacks,0.0,Devin Warner (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Cartersville HS ,Cartersville,GA
+1144,2018,31,939,25,Diamondbacks,0.0,Daniel Wasinger (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Southeastern Louisiana University ,Hammond,LA
+1145,2018,32,969,25,Diamondbacks,0.0,Austin Bergner (minors),RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of North Carolina at Chapel Hill ,Chapel Hill,NC
+1146,2018,33,999,25,Diamondbacks,0.0,Jeremy Ydens (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles ",Los Angeles,CA
+1147,2018,34,1029,25,Diamondbacks,0.0,Wacy Crenshaw (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,Glendale Community College ,Glendale,CA
+1148,2018,35,1059,25,Diamondbacks,0.0,Alex King (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,St. Louis University ,St. Louis,MO
+1149,2018,36,1089,25,Diamondbacks,0.0,Joe Gillette (minors),3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Menlo College ,Atherton,CA
+1150,2018,37,1119,25,Diamondbacks,0.0,Zack Plunkett (minors),C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,University of Arkansas ,Fayetteville,AR
+1151,2018,38,1149,25,Diamondbacks,0.0,David Garza (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Tennessee Technological University ,Cookeville,TN
+1152,2018,39,1179,25,Diamondbacks,0.0,Tyler Acosta (minors),OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,Barrington HS ,Barrington,IL
+1153,2018,40,1209,25,Diamondbacks,0.0,Garrison Burress (minors),SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,Catawba Valley Community College ,Hickory,NC
